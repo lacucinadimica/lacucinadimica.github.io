@@ -1,4 +1,5 @@
 ### La Cucina di Mica 👩🏼‍🍳
+Welcome to my kitchen. The two main outputs of this kitchen are engineering projects and actual food, for now.
 
 
 <!--
