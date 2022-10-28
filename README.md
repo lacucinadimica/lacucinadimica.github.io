@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+theme: jekyll-theme-minimal
+title: Benvenuti nella mia cucina.
+description: Coming soon!
