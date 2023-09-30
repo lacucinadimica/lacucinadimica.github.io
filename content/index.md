@@ -1,6 +1,11 @@
-# La Cucina di Mica
-## Welcome to my kitchen!
+---
+title: La Cucina di Mica
+---
 
-Test
+## Benvenuti nella mia cucina
 
-Visit my [LinkedIn profile] (https://www.linkedin.com/in/micaelabara/)
+
+Welcome to my kitchen. The two main outputs of this kitchen is food, followed by some engineering projects.
+
+
+Visit my [LinkedIn profile](https://www.linkedin.com/in/micaelabara)
