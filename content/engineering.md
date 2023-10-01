@@ -81,11 +81,7 @@ chef.
 ### Fall 2018
 
 - Description: This was my first Engineering project ever. It had laser cut, 3D printed, and electrical parts. 
-- My Role: 
-
-
-
-
+- My Role: I was borned and raised in rural Argentina. Day 1 of this class made me feel far behind, everyone kept talking about Arduino and CAD, and I didn't even know what those words meant. This name plate project started answering my questions.
 
 
 Visit my [LinkedIn profile](https://www.linkedin.com/in/micaelabara)
