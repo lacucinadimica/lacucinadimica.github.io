@@ -1,6 +1,11 @@
 ---
 title: Home
 ---
+
+<head>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+
 [Home](/)
 [Engineering Projects](/engineering)
 [La Cucina](/lacucina)
@@ -18,8 +23,5 @@ Welcome to my kitchen. The two main output of this kitchen is food, followed by 
 ### About
 My name is Micaela, I am an engineer and a cook (at heart), currently playing the role of a Product Manager. 
 
-
-
-[Engineerings Projects](engineering.md)
 
 Visit my [LinkedIn profile](https://www.linkedin.com/in/micaelabara)
