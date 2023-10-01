@@ -11,7 +11,7 @@ Welcome to my kitchen. The two main output of this kitchen is food, followed by 
 ### About
 My name is Micaela, I am an engineer and a cook (at heart), currently playing the role of a Product Manager. 
 
-![Profile Picture](C:\Users\micae\quartz\content\Media\Profile.jpg)
+<img src="Profile.jpg" alt="Profile Picture" width="200"/>
 
 [Engineerings Projects](engineering.md)
 
