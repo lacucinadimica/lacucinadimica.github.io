@@ -38,3 +38,17 @@
   display: block; /* Ensure the image is a block element */
   margin: 0 auto;
 }
+
+/* Style the image container */
+.image-container {
+  display: flex; /* Display images side by side */
+  justify-content: space-between; /* Distribute space between images */
+  margin-bottom: 20px; /* Add margin below the container for spacing */
+}
+
+/* Optional: Adjust image size on smaller screens */
+@media (max-width: 768px) {
+  .project-image {
+    max-width: 48%; /* Adjust the width for smaller screens */
+  }
+}
