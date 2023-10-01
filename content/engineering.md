@@ -49,6 +49,8 @@ chef.
 ## School Lockers for Everyone 
 ### Fall 2019
 
+<img src="Locker.jpg" alt="Project: Locker" class="project-image">
+
 - Description: We created a locking mechanism that allowed students with special needs at Broomfield High School to open their lockers by themselves. Our goal was to design a lock that the students could use in order to give them greater independence. One of the main requirements of the project was that the lock had to work with a plug-in switch which students are used to operating.
 - My Role: I had Project Management responsibilities, and helped with building the prototype and the CAD for the bracket that held the special lock inside the locker.
 
