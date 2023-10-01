@@ -52,3 +52,32 @@
     max-width: 48%; /* Adjust the width for smaller screens */
   }
 }
+
+/* Style for the Food Gallery section */
+#food-gallery {
+  margin-top: 20px; /* Add margin above the gallery */
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Display three columns */
+  gap: 20px; /* Add spacing between images */
+}
+
+/* Style for individual food image containers */
+.food-image-container {
+  max-width: 100%; /* Set a maximum width for each container */
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); /* Add a subtle shadow effect */
+  transition: transform 0.2s; /* Add a hover effect for containers */
+  text-align: center; /* Center the image horizontally */
+}
+
+/* Style for individual food images */
+.food-image {
+  max-width: 100%; /* Set a maximum width for each image */
+  height: auto; /* Allow the image to scale proportionally */
+  display: inline-block; /* Prevent whitespace below images */
+  border: 2px solid #ddd; /* Add a border around each image */
+}
+
+/* Style for hover effect (scale up on hover) */
+.food-image-container:hover {
+  transform: scale(1.05);
+}
