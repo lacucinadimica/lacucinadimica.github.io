@@ -4,7 +4,7 @@ title: Engineering Projects
 A collection of my engineering projects.
 
 
-## Electromechanical Device to Test Electrosurgical Generator
+## Electromechanical Device to Test Electrosurgical Generators
 ### Fall 2021 - Spring 2022
 
 - Description: This was my Senior Year Project. The goal was to create a system that allowed Medtronic to test its electrosurgical generators. Via the engineering design process, we built a lead screw actuator with an electrode arm to replicate the generator’s arcing behavior in monopolar mode (dissection and coagulation), and a variable load using a saline bath to copy the varying tissue impedance in bipolar mode (vessel sealing). 
