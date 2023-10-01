@@ -52,6 +52,39 @@ chef.
 - Description: We created a locking mechanism that allowed students with special needs at Broomfield High School to open their lockers by themselves. Our goal was to design a lock that the students could use in order to give them greater independence. One of the main requirements of the project was that the lock had to work with a plug-in switch which students are used to operating.
 - My Role: I had Project Management responsibilities, and helped with building the prototype and the CAD for the bracket that held the special lock inside the locker.
 
+## Truss Design
+### Fall 2019
+
+- Description: For a Statics class, we had to design and manufacture a truss. The goal was for it to be able to withstand 1200 pounds-force. After many calculations, along with testing for the most reliable wood and glue, we built our design. The trus weighed 0.682 lbs and the final test was a four point test. It was successfully able to support 1381 pounds-force, failing due to shear stress. 
+- My Role: I worked on testing, prototyping, and manufacturing the trust.
+
+## Compressed-Air 3D-Printed Turbine 
+### Fall 2019
+
+- Description: Our goal was to compare ideal and real values on the efficiency of a Thermodynamic Cycle. We built the system: compressed air ran through a 3D-Printed turbine which rotated the shaft of a generator. Temperature, pressure, and work output were obtained with thermo-couples, pressure gauges, and a multimeter, respectively. With such data, calculations were made, and results were produced.
+- My Role: I calculated the ideal and real values of the efficiency of our system on EES (Engineering Equation Solver). Also, I helped with prototyping and testing.
+
+## Buzz Beat: The Bee Counter
+### Fall 2018
+
+- Description: The goal was to design a product that allows the beekeepers to know whether a beehive is active or not based on the number of bees entering & exiting a hive. Our client, Andre Houssney from Jacobs Springs Farm, needed a solution to a problem: beehives die unexpectedly. We worked and found a way. "Buzz Beat" is a bee counter consisting of a Pixy Cam, detecting bees going in and out of the hive by keeping track of X and Y-coordinates. An LCD screen displays the number of bees going in and out. Our client can now monitor the activity of these amazing animals.
+- My Role: I helped with prototyping and testing. I first learned about Project Management because of this project. It planted a seed of a passion that keeps growing ever since.
+
+
+## Mate: Upgrade
+### Spring 2019
+
+- Description: This was my final project for the Engineering Drawings (CAD) class. It is a reverse-engineered customization, an all-in-one effective idea, an improvement to an Argentinian tradition. I built this upgrade to the "mate" experience by making the thermo lid the mate cup, and having a screwable container for "yerba" in the bottom of the thermo.
+- My Role: I ideated and desiged this project in Solidworks.
+
+## Name Plate for Engineering Projects 1
+### Fall 2018
+
+- Description: This was my first Engineering project ever. It had laser cut, 3D printed, and electrical parts. 
+- My Role: 
+
+
+
 
 
 

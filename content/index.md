@@ -6,12 +6,17 @@ title: Home
   <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 
-[Home](/)
-[Engineering Projects](/engineering)
-[La Cucina](/lacucina)
+<nav class="navbar">
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li><a href="/engineering">Engineering Projects</a></li>
+    <li><a href="/lacucina">La Cucina</a></li>
+  </ul>
+</nav>
+
 
 # La Cucina di Mica
-## Benvenuti nella mia cucina
+<!--## Benvenuti nella mia cucina-->
 
 
 Welcome to my kitchen. The two main output of this kitchen is food, followed by some engineering projects.

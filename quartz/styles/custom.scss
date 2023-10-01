@@ -1,1 +1,30 @@
 // put your custom CSS here!
+/* Customize the menu bar */
+.navbar {
+  background-color: #4c92d3;
+  overflow: hidden;
+}
+
+/* Style the menu items */
+.navbar ul {
+  list-style-type: none; /* Remove the default list bullet points */
+  padding: 0; /* Remove padding from the menu */
+}
+
+.navbar li {
+  display: inline; /* Display menu items inline */
+  margin-right: 20px; /* Add spacing between menu items */
+}
+
+/* Style the menu item links */
+.navbar a {
+  color: white; /* Text color of menu items */
+  text-decoration: none; /* Remove underlines from links */
+  //padding: 10px 20px; /* Padding around each menu item */
+}
+
+/* Change the color of menu items when hovered over */
+.navbar a:hover {
+  background-color: #ddd; /* Background color on hover */
+  color: black; /* Text color on hover */
+}
