@@ -3,7 +3,6 @@ title: Engineering Projects
 ---
 A collection of my engineering projects.
 
-
 ## Electromechanical Device to Test Electrosurgical Generators
 ### Fall 2021 - Spring 2022
 
