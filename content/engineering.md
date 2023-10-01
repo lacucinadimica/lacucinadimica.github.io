@@ -6,7 +6,7 @@ A collection of my engineering projects.
 ## Electromechanical Device to Test Electrosurgical Generators
 **Fall 2021 - Spring 2022**
 
-<img src="Bipolar.PNG" alt="Bipolar Mode, CAD" class="project-image"> 
+<img src="SeniorProjects.jpeg" alt="Final Project" class="project-image"> 
 
 - **Description**: This was my Senior Year Project. The goal was to create a system that allowed Medtronic to test its electrosurgical generators. Via the engineering design process, we built a lead screw actuator with an electrode arm to replicate the generator’s arcing behavior in monopolar mode (dissection and coagulation), and a variable load using a saline bath to copy the varying tissue impedance in bipolar mode (vessel sealing). 
 - **My role**: I was the Project Manager. Some of my responsibilities were to guide the project toward success (by assuring compliance to requirements),  balance stakeholders (client, director, and class executives), manage resources (time & work distribution), and keep the team aligned towards the project's goals.
