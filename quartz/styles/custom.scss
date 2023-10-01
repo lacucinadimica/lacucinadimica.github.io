@@ -59,6 +59,7 @@
   display: grid;
   grid-template-columns: repeat(3, 1fr); /* Display three columns */
   gap: 20px; /* Add spacing between images */
+  /*background-color: #E3DAC9; /* Change the background color here */
 }
 
 /* Style for individual food image containers */
@@ -74,7 +75,8 @@
   max-width: 100%; /* Set a maximum width for each image */
   height: auto; /* Allow the image to scale proportionally */
   display: inline-block; /* Prevent whitespace below images */
-  border: 2px solid #ddd; /* Add a border around each image */
+  /*border: 2px solid #ddd; /* Add a border around each image */
+  /*border-radius: 4px; /* Add rounded corners to the image border */
 }
 
 /* Style for hover effect (scale up on hover) */
