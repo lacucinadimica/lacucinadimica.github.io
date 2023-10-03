@@ -18,7 +18,7 @@ You can learn more about this project on the [CU Boulder Mechanical Engineering 
 
 <img src="GeneralaPhoto.JPEG" alt="Circuits" class="project-image">
 
-- **Description**: This was the final project for "Circuit for Engineers". It was an electronic version of the game Generala, also known as Yahtzee or dice Poker.  The dice were represented by a circuit of 4060 microcontrollers and 6 LEDs each, showing the rolled value. A push-button is used to "roll" the dice. A counter system made of LEDs showed the time left in the game. A PCB divided the power from two 9V batteries into the counter and the dice portions of the project.
+- **Description**: This was the final project for "Circuit for Engineers". It was an electronic version of the game Generala, also known as Yahtzee or dice Poker. The dice were represented by a circuit of 4060 microcontrollers and 6 LEDs each, showing the rolled value. A push-button is used to "roll" the dice. A counter system made of LEDs showed the time left in the game. A PCB divided the power from two 9V batteries into the counter and the dice portions of the project.
 - **My role**: I planned and built all circuitry. I was also the team leader, setting the vision and milestones for the project.
 
 
@@ -49,7 +49,7 @@ You can learn more about this project on the [CU Boulder Mechanical Engineering 
 - **Description**: For this "Data Analysis for Engineers" project, my client was a chef who wanted to find the acidity level of the perfect tomato sauce. Tomatoes are one of the most acidic fruits. As the base for tomato sauce, their acidity is always a
 concern. If the issue is not addressed, the result is an unenjoyable dish in which the acidity
 overwrites the other flavors. Therefore, a very methodic Italian chef (possibly myself) was interested in finding a
-way to detect this. To solve the issue, I created a control system for reading the pH levels of tomato sauce, with a speaker that warns the chef whether it is too acidic or too basic. I used LabVIEW to run the program and a data acquisition system, DAQ, to digitize the signals.The system turns on by pressing a button and an LED displays that it is functioning. Data is then read by the pH sensor, and depending on the pH level, the mini speaker (buzzer) alerts the
+way to detect this. To solve the issue, I created a control system for reading the pH levels of tomato sauce, with a speaker that warns the chef whether it is too acidic or too basic. I used LabVIEW to run the program and a data acquisition system, DAQ, to digitize the signals.The system turns on by pressing a button and an LED displays that it is functioning. The pH sensor then reads data, and depending on the pH level, the mini speaker (buzzer) alerts the
 chef.
 - **My Role**: I was the Engineering Consultant (and the client!). 
 

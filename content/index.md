@@ -2,7 +2,7 @@
 title: Home
 ---
 
-<head>
+<!--<head>
   <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 
@@ -12,7 +12,7 @@ title: Home
     <li><a href="/engineering">Engineering Projects</a></li>
     <li><a href="/lacucina">La Cucina</a></li>
   </ul>
-</nav>
+</nav>-->
 
 
 # La Cucina di Mica
