@@ -22,7 +22,7 @@ title: Home
 Welcome to my kitchen. The main output of this kitchen is food, followed by some engineering projects.
 
 <figure style="float: right; margin: 0px 0px 10px 10px;">
-  <img src="Profile.jpg" alt="Profile Picture" width="200"/>
+  <img src="ITLL.jpg" alt="Profile Picture" width="200"/>
 </figure>
 
 ### About

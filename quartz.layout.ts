@@ -1,10 +1,11 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import { TopNavigation } from "./quartz/components";
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [],
+  header: [Component.Header({ key: "header" })],
   footer: Component.Footer(),
   }
 
@@ -15,13 +16,14 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
-  ],
-  left: [
-    Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    //Component.DesktopOnly(Component.Explorer()),
+  ],
+  left: [
+    //Component.PageTitle(),
+    Component.MobileOnly(Component.Spacer()),
+    
   ],
   right: [
   //  Component.Graph(),
