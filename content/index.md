@@ -22,7 +22,7 @@ Welcome to my kitchen. The main output of this kitchen is food, followed by some
 <div class="split-container">
   <div class="text">
     <h2>Welcome to my kitchen.</h2>
-    <p>I am an engineer and a cook (at heart). The main output of this kitchen is food, followed by some engineering projects.<p> 
+    <p>The main output of this kitchen is food, followed by some engineering projects.<p> 
   </div>
   <img src="ITLL.jpg" alt="Home Page Picture" class="image">
 </div>
