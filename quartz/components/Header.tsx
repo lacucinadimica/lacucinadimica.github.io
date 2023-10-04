@@ -28,12 +28,12 @@ function Header({ children }: QuartzComponentProps) {
     <header>
       <div className="header-content">
         <h1>
-          <a href="/">Micaela V. Bara</a>
+          <a href="/">La Cucina di Mica</a>
         </h1>
         <div className="menu">
           {/* Add your menu buttons here */}
           <a href="/engineering">Projects</a>
-          <a href="/lacucina">La Cucina</a>
+          <a href="/lacucina">Food</a>
         </div>
       </div>
     </header>
@@ -42,7 +42,7 @@ function Header({ children }: QuartzComponentProps) {
 
 Header.css = `
 header {
-  background-color: #E3DAC9; /* Example background color */
+  background-color: #8FB8CA; /* Example background color */
   color: #000; /* Example text color */
   padding: 10px;
 }
