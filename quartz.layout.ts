@@ -7,17 +7,17 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [Component.Header({ key: "header" })],
   footer: Component.Footer(),
-  }
+}
 
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
-    Component.Breadcrumbs(),
-    Component.ArticleTitle(),
-    Component.ContentMeta(),
+    //Component.Breadcrumbs(),
+    //Component.ArticleTitle(),
+    //Component.ContentMeta(),
     Component.TagList(),
-    Component.Search(),
-    Component.Darkmode(),
+    //Component.Search(),
+    //Component.Darkmode(),
     //Component.DesktopOnly(Component.Explorer()),
   ],
   left: [

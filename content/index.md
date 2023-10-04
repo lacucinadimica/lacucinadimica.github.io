@@ -14,13 +14,36 @@ title: Home
   </ul>
 </nav>-->
 
-
+<!--
 # La Cucina di Mica
-<!--## Benvenuti nella mia cucina-->
 
+Welcome to my kitchen. The main output of this kitchen is food, followed by some engineering projects.-->
 
-Welcome to my kitchen. The main output of this kitchen is food, followed by some engineering projects.
+<div class="split-container">
+  <div class="text">
+    <h2>Welcome to my kitchen.</h2>
+    <p>I am an engineer and a cook (at heart). The main output of this kitchen is food, followed by some engineering projects.<p> 
+  </div>
+  <img src="ITLL.jpg" alt="Home Page Picture" class="image">
+</div>
 
+<style>
+  .split-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .text {
+    width: 45%; /* Adjust the text width as needed */
+  }
+
+  .image {
+    width: 50%; /* Adjust the image width as needed */
+  }
+</style>
+
+<!--
 <figure style="float: right; margin: 0px 0px 10px 10px;">
   <img src="ITLL.jpg" alt="Profile Picture" width="200"/>
 </figure>
@@ -30,3 +53,4 @@ My name is Micaela, I am an engineer and a cook (at heart), currently playing th
 
 
 Visit my [LinkedIn profile](https://www.linkedin.com/in/micaelabara)
+-->
