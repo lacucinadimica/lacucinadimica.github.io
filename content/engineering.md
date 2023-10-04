@@ -1,7 +1,26 @@
----
-title: Engineering Projects
----
-A collection of my engineering projects.
+
+# A collection of my projects.
+
+**Table of Contents**
+- Spring 2022
+  - [Electromechanical Device to Test Electrosurgical Generators](#electromechanical-device-to-test-electrosurgical-generators)
+  - [New-Trition](#new-trition)
+- Spring 2021
+  - [The Chinese Dragon](#the-chinese-dragon)
+- Fall 2020
+  -[Electronic Generala](#electronic-generala)
+  - [Thermo Guard: Cook Outside The Kitchen](#thermo-guard-cook-outside-the-kitchen)
+  - [How Pan Material Affeccts Brownies](#how-pan-material-affects-brownies)
+  - [The Acidity Indicator, a pH Alerting Control System](#the-acidity-indicator-a-ph-alerting-control-system)
+- Fall 2019
+  - [School Lockers for Everyone](#school-lockers-for-everyone)
+  - [Truss Design](#truss-design)
+  - [Compressed-Air 3D-Printed Turbine](#compressed-air-3d-printed-turbine)
+- Spring 2019
+  - [Mate: Upgrade](#mate-upgrade)
+- Fall 2018
+  - [Buzz Beat: The Bee Counter](#buzz-beat-the-bee-counter)
+  - [Name Plate for Engineering Projects Team](#name-plate-for-engineering-projects-team)
 
 ## Electromechanical Device to Test Electrosurgical Generators
 **Fall 2021 - Spring 2022**
@@ -12,6 +31,15 @@ A collection of my engineering projects.
 - **My role**: I was the Project Manager. Some of my responsibilities were to guide the project toward success (by assuring compliance to requirements),  balance stakeholders (client, director, and class executives), manage resources (time & work distribution), and keep the team aligned towards the project's goals.
 
 You can learn more about this project on the [CU Boulder Mechanical Engineering Website](https://www.colorado.edu/mechanical/team-20-electrosurgical-generator-electromechanical-load)
+
+## New-Trition
+**Spring 2022**
+
+<img src="NewTrition.jpeg" alt="Business Development Plan" class="project-image">
+
+- **Description**: This was the capstone project for the Business Minor. We had to develop a professional business plan for a startup and pitch it "Shark Tank" style, competing with other teams in the classroom. The team and I built New-Trition, a service that "ships personally tailored daily supplements in the form of a runner's gel for active people with busy lifestyles". The final round of the competition was against other classroom, and the judges were local community leaders and entrepreneurs in Boulder. We won the final cash prize as the most thought out business plan. 
+- **My Role**: I was the CEO of New-Trition. Apart from also playing the fictional role of "operations manager at the manufacturing facilities", I was the PM, planned the the development of the service, designed the add, and delivered the "hook" and "call-to-action" of the pitch. 
+
 
 ## Electronic Generala
 **Fall 2020**

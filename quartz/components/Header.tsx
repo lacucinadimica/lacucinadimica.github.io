@@ -42,7 +42,7 @@ function Header({ children }: QuartzComponentProps) {
 
 Header.css = `
 header {
-  background-color: #8FB8CA; /* Example background color */
+  background-color: #fdf1dd; /* Example background color */
   color: #000; /* Example text color */
   padding: 10px;
 }
