@@ -1,6 +1,5 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
-import { TopNavigation } from "./quartz/components";
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -15,14 +14,14 @@ export const defaultContentPageLayout: PageLayout = {
     //Component.Breadcrumbs(),
     //Component.ArticleTitle(),
     //Component.ContentMeta(),
-    Component.TagList(),
+    //Component.TagList(),
     //Component.Search(),
     //Component.Darkmode(),
     //Component.DesktopOnly(Component.Explorer()),
   ],
   left: [
     //Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
+    //Component.MobileOnly(Component.Spacer()),
     
   ],
   right: [
@@ -30,16 +29,17 @@ export const defaultContentPageLayout: PageLayout = {
   //  Component.DesktopOnly(Component.TableOfContents()),
   //  Component.Backlinks(),
   ],
+
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.ArticleTitle()],
-  left: [
-    Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
-    Component.Darkmode(),
-  ],
+  beforeBody: [],//[Component.ArticleTitle()],
+  left: [],
+  //  Component.PageTitle(),
+  //  Component.MobileOnly(Component.Spacer()),
+  //  Component.Search(),
+  //  Component.Darkmode(),
+
   right: [],
 }
