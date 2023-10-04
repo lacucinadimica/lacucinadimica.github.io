@@ -8,7 +8,7 @@
 - Spring 2021
   - [The Chinese Dragon](#the-chinese-dragon)
 - Fall 2020
-  -[Electronic Generala](#electronic-generala)
+  - [Electronic Generala](#electronic-generala)
   - [Thermo Guard: Cook Outside The Kitchen](#thermo-guard-cook-outside-the-kitchen)
   - [How Pan Material Affeccts Brownies](#how-pan-material-affects-brownies)
   - [The Acidity Indicator, a pH Alerting Control System](#the-acidity-indicator-a-ph-alerting-control-system)
