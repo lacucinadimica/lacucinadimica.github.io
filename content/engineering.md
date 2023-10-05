@@ -1,4 +1,3 @@
-
 # A collection of my projects.
 
 **Table of Contents**
@@ -74,11 +73,7 @@ You can learn more about this project on the [CU Boulder Mechanical Engineering 
 
 <img src="ControlSystem.jpg" alt="Control System" class="project-image">
 
-- **Description**: For this "Data Analysis for Engineers" project, my client was a chef who wanted to find the acidity level of the perfect tomato sauce. Tomatoes are one of the most acidic fruits. As the base for tomato sauce, their acidity is always a
-concern. If the issue is not addressed, the result is an unenjoyable dish in which the acidity
-overwrites the other flavors. Therefore, a very methodic Italian chef (possibly myself) was interested in finding a
-way to detect this. To solve the issue, I created a control system for reading the pH levels of tomato sauce, with a speaker that warns the chef whether it is too acidic or too basic. I used LabVIEW to run the program and a data acquisition system, DAQ, to digitize the signals.The system turns on by pressing a button and an LED displays that it is functioning. The pH sensor then reads data, and depending on the pH level, the mini speaker (buzzer) alerts the
-chef.
+- **Description**: For this "Data Analysis for Engineers" project, my client was a chef who wanted to find the acidity level of the perfect tomato sauce. Tomatoes are one of the most acidic fruits. As the base for tomato sauce, their acidity is always a concern. If the issue is not addressed, the result is an unenjoyable dish in which the acidity overwrites the other flavors. Therefore, a very methodic Italian chef (possibly myself) was interested in finding a way to detect this. To solve the issue, I created a control system for reading the pH levels of tomato sauce, with a speaker that warns the chef whether it is too acidic or too basic. I used LabVIEW to run the program and a data acquisition system, DAQ, to digitize the signals.The system turns on by pressing a button and an LED displays that it is functioning. The pH sensor then reads data, and depending on the pH level, the mini speaker (buzzer) alerts the chef.
 - **My Role**: I was the Engineering Consultant (and the client!). 
 
 ## The Chinese Dragon
@@ -145,5 +140,5 @@ chef.
 - **My role**: I was borned and raised in rural Argentina. Day 1 of this class made me feel far behind, everyone kept talking about Arduino and CAD, and I didn't even know what those words meant. This name plate project started answering my questions.
 
 
-Visit my [LinkedIn profile](https://www.linkedin.com/in/micaelabara)
-
+<!--Visit my [LinkedIn profile](https://www.linkedin.com/in/micaelabara)
+-->
