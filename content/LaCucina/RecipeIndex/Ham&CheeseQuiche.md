@@ -16,12 +16,12 @@ This is a key dough to learn for making tarts and empanadas. It can be flaky if 
 - 2 Cups of Flour (all purpose will be the best, but whole wheat works too).
 - 1/4 Cups of Oil (any vegatable oil works, but I recommend sunflower).
 - 1/2 Cups of Boiling Water. 
-- A bit of cornstarch for rolling the dough. 
+- Some cornstarch for rolling the dough. 
 - Salt.
 
 ## Procedure
 - Make the dough by simply combining the ingredients above. Don't add any extra flour after you form the dough, use cornstarch for rolling it instead. Roll it, fold it in 3, roll it again, fold it in 4, and roll it one more time and fold it in 3 again. Keep folding and rolling for more flakiness. Put the rolled dough on the desired dish for the quiche (if it's a metal pan, the dough will be crispier).
 - Saute the onion until it's cooked through (min. 15'). Remove from the heat and let cool.
-- While the onion is cooking, dice the ham and hard cheeses. Separately, beat the eggs with the salt and spices.
-- Ones the onion is cool, combine the ham, cheeses (including cream cheese), and the onion in a separate bowl. Then add the eggs and make sure it's all well combined. 
-- Bake it a 400F oven for at least 30 minutes or until the filling is set.
+- While the onion is cooking, dice the ham and hard cheeses.
+- Ones the onion is cool, combine the ham, cheeses (including cream cheese), and the onion in a bowl.  Add and beat the eggs into the mixture one by one. Add the salt and spices. Make sure it's all well combined. 
+- Pour mixture into quiche shell and bake in a 400F oven for at least 30 minutes or until the filling is set.

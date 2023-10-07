@@ -1,21 +1,33 @@
 // put your custom CSS here!
 
+/* HOME PAGE */
+.split-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.text {
+  width: 45%;
+}
+.image {
+  width: 50%;
+  float: right; /* Add this to float the image to the right */
+  margin-left: 15px; /* Add some margin between the text and image */
+}
 
-/* Define a CSS class for project images */
+/* ENGINEERING PROJECT IMAGES*/
 .project-image {
   max-width: 350px; /* Set the maximum width to 100% to make images responsive */
   height: auto; /* Automatically adjust the height to maintain aspect ratio */
   display: block; /* Ensure the image is a block element */
   margin: 0 auto;
 }
-
 /* Style the image container */
 .image-container {
   display: flex; /* Display images side by side */
   justify-content: space-between; /* Distribute space between images */
   margin-bottom: 20px; /* Add margin below the container for spacing */
 }
-
 /* Optional: Adjust image size on smaller screens */
 @media (max-width: 768px) {
   .project-image {
@@ -23,7 +35,7 @@
   }
 }
 
-/* Style for the Food Gallery section */
+/*FOOD GALLERY SECTION*/
 #food-gallery {
   margin-top: 20px; /* Add margin above the gallery */
   display: grid;
@@ -31,7 +43,6 @@
   gap: 20px; /* Add spacing between images */
   /*background-color: #E3DAC9; /* Change the background color here */
 }
-
 /* Style for individual food image containers */
 .food-image-container {
   max-width: 100%; /* Set a maximum width for each container */
@@ -39,7 +50,6 @@
   transition: transform 0.2s; /* Add a hover effect for containers */
   text-align: center; /* Center the image horizontally */
 }
-
 /* Style for individual food images */
 .food-image {
   max-width: 100%; /* Set a maximum width for each image */
@@ -48,8 +58,28 @@
   /*border: 2px solid #ddd; /* Add a border around each image */
   /*border-radius: 4px; /* Add rounded corners to the image border */
 }
-
 /* Style for hover effect (scale up on hover) */
 .food-image-container:hover {
   transform: scale(1.05);
+}
+
+/* RECIPE PAGES */
+.recipe-container {
+  display: flex;
+  gap: 20 px;
+  align-items: flex-start;
+}
+.recipe-text {
+  flex: 2;
+  flex-wrap: wrap;
+}
+.recipe-image{
+  flex: 1;
+  max-width: 40%;
+}
+.recipe-caption {
+  font-style: italic;
+  font-size: 14px; // Adjust the font size as needed
+  margin-top: 8px; // Add spacing between the image and caption
+  color: #666; // Set the caption text color
 }
