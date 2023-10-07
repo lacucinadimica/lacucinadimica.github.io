@@ -1,12 +1,3 @@
-<!-----
-title: Home
----
-
-
-# La Cucina di Mica
-
-Welcome to my kitchen. The main output of this kitchen is food, followed by some engineering projects.-->
-
 <div class="split-container">
   <div class="text">
     <h1>Welcome to my kitchen.</h1>

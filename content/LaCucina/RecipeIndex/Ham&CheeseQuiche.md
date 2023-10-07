@@ -1,7 +1,6 @@
 # Ham & Cheese Quiche
 
 This is another "invento puro y absoluto", which translates to "a pure and absolute invention", but simply means I came up with the recipe. Lots of freedom for this quiche (or tart if you prefer) and here is the basic structure:
-
 ## Ingredients  
 **Filling:**
 - 1 Onion: any works, but the sweeter the better. One red onion, one sweet onion, or 2 shallots work best.
@@ -21,6 +20,8 @@ This is a key dough to learn for making tarts and empanadas. It can be flaky if 
 
 ## Procedure
 - Make the dough by simply combining the ingredients above. Don't add any extra flour after you form the dough, use cornstarch for rolling it instead. Roll it, fold it in 3, roll it again, fold it in 4, and roll it one more time and fold it in 3 again. Keep folding and rolling for more flakiness. Put the rolled dough on the desired dish for the quiche (if it's a metal pan, the dough will be crispier).
+<img src="Ham&CheeseQuiche.jpg" alt="Recipe Picture" class="image">
+
 - Saute the onion until it's cooked through (min. 15'). Remove from the heat and let cool.
 - While the onion is cooking, dice the ham and hard cheeses.
 - Ones the onion is cool, combine the ham, cheeses (including cream cheese), and the onion in a bowl.  Add and beat the eggs into the mixture one by one. Add the salt and spices. Make sure it's all well combined. 

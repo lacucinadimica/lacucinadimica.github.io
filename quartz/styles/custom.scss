@@ -78,8 +78,9 @@
   max-width: 40%;
 }
 .recipe-caption {
+  width: 100%; /* Make the caption span the full width of the image */
+  padding: 8px; /* Add some padding for readability */
   font-style: italic;
-  font-size: 14px; // Adjust the font size as needed
-  margin-top: 8px; // Add spacing between the image and caption
-  color: #666; // Set the caption text color
+  font-size: 14px;
+  color: #666;
 }
