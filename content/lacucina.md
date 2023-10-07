@@ -2,14 +2,14 @@
 title: La Cucina
 ---
 
-The kitchen is where I exercise freedom the most. In other words, I don't like following recipes. I prefer to expirement, to modify rules based on experience, to have fun.
+The kitchen is where I exercise freedom the most, i.e., I don't like following recipes. I prefer to expirement, to modify rules based on experience, to have fun.
 
-That said, I have been keeping a recipes file-organizer since I am 13. Because as much as I like to "be free" in th kitchen, there is a minimum set of rules that must be followed. I share (most) my recipes here, selfishly organized in a pattern that helps me answer a daily question: "What do I want to cook?" 
+That said, I have been keeping a recipes file-organizer since I am 13. Because as much as I like to "be free" in th kitchen, there is a minimum set of rules that must be followed. I share (most) my recipes here, selfishly organized in a pattern that helps me answer a daily question: "What do I want to cook?" . 
 
 ### Recipe Index
 
-Coming soon!
-
+This is a work in progress!
+- [Ham & Cheese Quiche](Ham&CheeseQuiche)
 
 ## Food Gallery
 
