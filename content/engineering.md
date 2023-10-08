@@ -9,7 +9,7 @@
 - Fall 2020
   - [Electronic Generala](#electronic-generala)
   - [Thermo Guard: Cook Outside The Kitchen](#thermo-guard-cook-outside-the-kitchen)
-  - [How Pan Material Affeccts Brownies](#how-pan-material-affects-brownies)
+  - [How Pan Material Affects Brownies](#how-pan-material-affects-brownies)
   - [The Acidity Indicator, a pH Alerting Control System](#the-acidity-indicator-a-ph-alerting-control-system)
 - Fall 2019
   - [School Lockers for Everyone](#school-lockers-for-everyone)
@@ -54,7 +54,7 @@ You can learn more about this project on the [CU Boulder Mechanical Engineering 
 
 <img src="ThermoGuard.png" alt="Thermo Guard" class="project-image">
 
-- **Desciption**: Thermo Guard was a project for "Enginereing Projects 3: Invention and Innovation". This project involved creating a fictional business around a product and them building such product.
+- **Desciption**: Thermo Guard was a project for "Engineering Projects 3: Invention and Innovation". This project involved creating a fictional business around a product and them building such product.
 - **My role**: I was the CFO, but apart from my financial duties, I was in charge of the programming and circuitry of the Thermo Guard. It was a device that sends data to an app, informing cooks about the state of the food, allowing users to "cook outside the kitchen".
 
 ## How Pan Material Affects Brownies
@@ -65,8 +65,8 @@ You can learn more about this project on the [CU Boulder Mechanical Engineering 
   <img src="MeasureIt3.JPEG" alt="Glass Pan" class="project-image">
 </div>
 
-- **Description**: This was the final project for "Data Analysis for Engineers". As a passionate baker (and cook), I have heard multiple well-know bakers recommending metal pans for baking brownies "evenly" across the pan. However, my personal experience said that glass or ceramic pans made for brownes with better "moisture". I set the purpose of this project was to test that hypothesis: to identify how the pan material affects the overall humidity of the brownies and evaluate how humidity changes across the different locations of the slice. We used a humidity sensor to measure the brownie's humidy for glass, ceramic, and metal plans and across the brownie slice (border, middle, and center). It was found that there was no statistical difference between ceramic and glass pans, and these were different from metal pans. Moreover, there was no statistical difference across the slice for none of the pan materials.
-- **My role**: As the team leader, I was responsible for roadmapping the project. Moreover, I baked all 9 batches (3 for each pan material) and helped with the measurements and data analysis.
+- **Description**: This was the final project for "Data Analysis for Engineers". As a passionate baker (and cook), I have heard multiple well-know bakers recommending metal pans for baking brownies "evenly" across the pan. However, my personal experience said that glass or ceramic pans made for brownies with better "moisture". I set the purpose of this project was to test that hypothesis: to identify how the pan material affects the overall humidity of the brownies and evaluate how humidity changes across the different locations of the slice. We used a humidity sensor to measure the brownie's humidity for glass, ceramic, and metal plans and across the brownie slice (border, middle, and center). It was found that there was no statistical difference between ceramic and glass pans, and these were different from metal pans. Moreover, there was no statistical difference across the slice for none of the pan materials.
+- **My role**: As the team leader, I was responsible for road-mapping the project. Moreover, I baked all 9 batches (3 for each pan material) and helped with the measurements and data analysis.
 
 ## The Acidity Indicator, a pH Alerting Control System
 **Fall 2020**
@@ -81,7 +81,7 @@ You can learn more about this project on the [CU Boulder Mechanical Engineering 
 
 <img src="ChineseDragon.jpeg" alt="Component Design" class="project-image">
 
-- **Descprition**: This was the final project for Component Design. In this project, a team of 6 Mechanical Engineering students, including myself, designed, fabricated, and assembled an electro-mechanical kinetic sculpture: a Chinese Dragon Automata. The principal objective is to create a desktop-size structure that simulates the movement of a Chinese Dragon. Powered by a DC electric motor, a shaft rotates with cams attached to it. Due to the off-center position of the cams on the shaft, each revolution makes a piston (in itself linked to the cams) move up and down. By multiplying this system with cams at different angles, the pistons imitate the movement of a wave, similar to that of a dragon. 
+- **Description**: This was the final project for Component Design. In this project, a team of 6 Mechanical Engineering students, including myself, designed, fabricated, and assembled an electro-mechanical kinetic sculpture: a Chinese Dragon Automata. The principal objective is to create a desktop-size structure that simulates the movement of a Chinese Dragon. Powered by a DC electric motor, a shaft rotates with cams attached to it. Due to the off-center position of the cams on the shaft, each revolution makes a piston (in itself linked to the cams) move up and down. By multiplying this system with cams at different angles, the pistons imitate the movement of a wave, similar to that of a dragon. 
 - **My role**: I was the Project Manager, and applied and developed leadership and prototyping skills.
 
 ## School Lockers for Everyone 
@@ -97,7 +97,7 @@ You can learn more about this project on the [CU Boulder Mechanical Engineering 
 
 <img src="Truss.jpg" alt="Truss Project" class="project-image">
 
-- **Description**: For a Statics class, we had to design and manufacture a truss. The goal was for it to be able to withstand 1200 pounds-force. After many calculations, along with testing for the most reliable wood and glue, we built our design. The trus weighed 0.682 lbs and the final test was a four point test. It was successfully able to support 1381 pounds-force, failing due to shear stress. 
+- **Description**: For a Statics class, we had to design and manufacture a truss. The goal was for it to be able to withstand 1200 pounds-force. After many calculations, along with testing for the most reliable wood and glue, we built our design. The truss weighed 0.682 lbs. and the final test was a four point test. It was successfully able to support 1381 pounds-force, failing due to shear stress. 
 - **My role**: I worked on testing, prototyping, and manufacturing the trust.
 
 ## Compressed-Air 3D-Printed Turbine 
@@ -125,8 +125,8 @@ You can learn more about this project on the [CU Boulder Mechanical Engineering 
 
   <img src="Mate.jpg" alt="Mate Drawing" class="project-image">
 
-- **Description**: This was my final project for the Engineering Drawings (CAD) class. It is a reverse-engineered customization, an all-in-one effective idea, an improvement to an Argentinian tradition. I built this upgrade to the "mate" experience by making the thermo lid the mate cup, and having a screwable container for "yerba" in the bottom of the thermo.
-- **My role**: I ideated and desiged this project in Solidworks.
+- **Description**: This was my final project for the Engineering Drawings (CAD) class. It is a reverse-engineered customization, an all-in-one effective idea, an improvement to an Argentinian tradition. I built this upgrade to the "mate" experience by making the Termo lid the mate cup, and having a screwable container for "yerba" in the bottom of the Termo.
+- **My role**: I ideated and designed this project in SolidWorks.
 
 ## Name Plate for Engineering Projects Team
 **Fall 2018**
@@ -137,7 +137,7 @@ You can learn more about this project on the [CU Boulder Mechanical Engineering 
 </div>
 
 - **Description**: This was my first Engineering project ever. It had laser cut, 3D printed, and electrical parts. 
-- **My role**: I was borned and raised in rural Argentina. Day 1 of this class made me feel far behind, everyone kept talking about Arduino and CAD, and I didn't even know what those words meant. This name plate project started answering my questions.
+- **My role**: I was born and raised in rural Argentina. Day 1 of this class made me feel far behind, everyone kept talking about Arduino and CAD, and I didn't even know what those words meant. This name plate project started answering my questions.
 
 
 <!--Visit my [LinkedIn profile](https://www.linkedin.com/in/micaelabara)

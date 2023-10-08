@@ -18,7 +18,7 @@
         <ul>
         <li>Make a dough with the flour, butter (at room temp), egg, sugar, and lemon zest. It's a hard dough, but try not to knead it or touch it too much, just what's necessary for it to form. Let it rest covered in the fridge for at least 20. I usually use plastic wrap. </li>
         <li>Roll the dough very thinly on a counter with some flour. Cut the "cookie of the alfajor" and take to a 420F oven for 8-10'. </li>
-        <li>Fill them up with dulce de leche once they are completly cool. Be gentle because they crack easily. You'll get 34 alfajores if you roll the dough thin and cut the cookies small.</li> 
+        <li>Fill them up with dulce de leche once they are completely cool. Be gentle because they crack easily. You'll get 34 alfajores if you roll the dough thin and cut the cookies small.</li> 
         </ul></p>
   </div>
   <div class="recipe-image">
