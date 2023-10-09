@@ -13,6 +13,7 @@ This is a work in progress!
 **Dinner**
 
 - [Ham & Cheese Quiche](Ham&CheeseQuiche)
+- [Malfatti de la Abuela](Malfatti)
 
 **Tea Time**
 
