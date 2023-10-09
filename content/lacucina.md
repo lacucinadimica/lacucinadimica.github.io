@@ -10,7 +10,7 @@ That said, I have been keeping a recipes file-organizer since I am 13. Because a
 
 This is a work in progress!
 
-**Dinner**
+**Bigger Dishes**
 
 - [Ham & Cheese Quiche](Ham&CheeseQuiche)
 - [Malfatti de la Abuela](Malfatti)
