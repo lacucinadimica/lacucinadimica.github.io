@@ -28,11 +28,10 @@ My mom's recipe feeds around 4 people (on day 1 alone) and it's the only recipe 
 - 1 ear of corn (I usually do 2 of these because I love corn from Puchero)
 - 1 small butternut squash or pumpkin
 - 1 zapallito del tronco (very hard to find in the U.S. but doesn't make much of a difference so don't worry if you can't get it)
-- 2 tablespoons of vegetable oil (I recommend sunflower)
 - Salt, a little dry oregano, some pepper, and a bay leaf
 
 ## Procedure
-- Heat up the oil in a big pot and ideally boil water separately. Add the meat to the oil and then the boiling water (carefully!). Add 1 peeled and grated carrot, chopped parsley, and half of the small butternut squash/pumpkin grated (yes, you can grate squash, just peel it first). Let boil for 1-1.5 hours depending on the meat (the better and more tender the meat, the less cooking it will require).
+- Put the meat in a large pot and fill it up a little over halfway. Add 1 peeled and grated carrot, chopped parsley, and half of the small butternut squash/pumpkin grated (yes, you can grate squash, just peel it first). Boil for 1-1.5 hours depending on the meat (the better and more tender the meat, the less cooking it will require).
 - Prepare the rest of the vegetables and cut them into big chunks (a potato can be used whole or cut in two depending on the size). Boil until all vegetables are cooked through.
 - Add salt and spices.
 - Take the vegetables and meat out of the pot one by one, making sure to save the broth. Serve the vegetables and have that homemade mayo at hand.
