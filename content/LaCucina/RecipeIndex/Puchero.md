@@ -8,7 +8,7 @@ As I have mentioned regarding family recipes, lots can change depending on avail
 
 **Other considerations and spin-offs**
 - Puchero must be had with homemade mayo (it'll only take 1 egg, a squeeze of lemon, around 200ml of sunflower oil, and salt and it's 100% worth it. I'll add the recipe for this at some point, but it's super easy to make).
-- Mom's notes: "The more bone you add the better broth you'll get" (and I can't tell you how good soup from Puchero is)
+- Mom's notes: "The more bone you add the better broth you'll get" (and I can't tell you how good soup from Puchero is).
 - Mom's spin-offs: 1) she'll add some chopped basil if it's fresh and abundant (the woman has a garden so I can't relate yet) and 2) if she happens to have a chicken carcass she'll add it too (this is even harder to relate too). 
 
 My mom's recipe feeds around 4 people (on day 1 alone) and it's the only recipe that exists for me:
