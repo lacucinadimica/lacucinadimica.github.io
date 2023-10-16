@@ -20,6 +20,9 @@ This is a work in progress!
 - [Alfajores del Polo](AlfajoresDelPolo)
 - [Alfajores de Maicena](AlfajoresDeMaicena)
 
+**Dessert**
+- [Marquise de Chocolate](MarquiseDeChocolate)
+
 ## Food Gallery
 
 <div id="food-gallery">
