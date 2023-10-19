@@ -24,8 +24,8 @@ My mom's recipe feeds around 4 people (on day 1 alone) and it's the only recipe 
 - 1 tomato 
 - 1 bell pepper
 - 1 potato
-- 1 sweet potato (I like Japanese sweet potato or "batata)
-- 1 ear of corn (I usually do 2 of these because I love corn from Puchero)
+- 1 sweet potato (I like Japanese sweet potato or "batata")
+- 1 ear of corn (I usually do 2 of these because I love corn)
 - 1 small butternut squash or pumpkin
 - 1 zapallito del tronco (very hard to find in the U.S. but doesn't make much of a difference so don't worry if you can't get it)
 - Salt, a little dry oregano, some pepper, and a bay leaf

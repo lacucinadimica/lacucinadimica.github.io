@@ -23,6 +23,8 @@ This is a work in progress!
 
 **Dessert**
 - [Marquise de Chocolate](MarquiseDeChocolate)
+- [Flan de Mamá](FlanDeMama)
+- [Cheesecake de Vane](CheesecakeDeVane)
 
 ## Food Gallery
 
