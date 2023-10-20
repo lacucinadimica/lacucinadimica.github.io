@@ -25,7 +25,7 @@ Here is Maru's recipe broken down in 3/8:
 - Take it out of the heat, add the eggs, and mix by hand so it's all well incorporated. Add the flour/cornstarch and mix well.
 - Grease and flour a 9" pan, pour the mixture, and bake on a 350F oven until the edges start to unstick from the pan.
 - Let it cool completely and take it out of the pan.
-- For the meringue, mix the egg whites on one side, and on the other start making a homemade syrup with the sugar and water. My tweaks: a pinch of salt and a squeeze of a lemon.
+- For the meringue, mix the egg whites on one side, and on the other start making a homemade syrup with the sugar and water. My tweaks: a few drops of lemon juice for stabilization, or cream tartar if you have it.
 - The syrup is ready when it's thick enough so that slowly dropping it from a spoon makes it a thread. At that point, add it slowly to the whites (while they are still being mixed) in that thread-like format.
 - Keep mixing the whites until the mixing bowl is cool again and the meringue is firm and bright.
 - Time to put the Marquise together: top the chocolate layer with the dulce de leche, a very fine layer of freshly whipped heavy cream (with no sugar unless you want to die), and finish it with the meringue.
