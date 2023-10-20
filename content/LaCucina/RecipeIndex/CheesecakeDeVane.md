@@ -1,6 +1,6 @@
 # Cheesecake de Vane
 
-Vane's cheesecake is the only no-bake cheesecake I can recommend. I had just a few notes on this recipe, so it took me way longer than expected to explain it all.  
+Vane's cheesecake is the only no-bake cheesecake I can recommend. I only had just a few notes on this recipe, so I hope the explanation makes sense!  
 
 ## Ingredients
 - 465 grams of cream cheese (CasanCrem if you are in Argentina)
