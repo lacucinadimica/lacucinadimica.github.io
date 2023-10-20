@@ -1,10 +1,10 @@
 # Flan de Mamá
 
-My mom's flan is another classic. It's the easiest dessert to make and can be adjusted to any size. The only cosideration is that it must be made a few hours in advance, because it has to cool completly before serving.
+My mom's flan is another classic. It's the easiest dessert to make and can be adjusted to any size. The only consideration is that it must be made a few hours in advance because it has to cool completely before serving.
 
 The recipe below is for a "vanilla" flan, but you can make it "dulce de leche" flavor by simply replacing the sugar in/ the filling with dulce de leche. I'll call out the proportions.
 
-The amount of ingredients is dictated by the size of the pan you to choose to use. You can make it as small or as big as you want. For a typical 9" pan, I would use 12 eggs. 
+The amount of ingredients is dictated by the size of the pan you choose to use. You can make it as small or as big as you want. For a typical 9" pan, I would use 12 eggs. 
 
 ## Ingredients
 - Eggs (I'd go for bigger pans and use 10-12 eggs)
@@ -16,4 +16,8 @@ The amount of ingredients is dictated by the size of the pan you to choose to us
 - Choose a metal pan that you can use on the stove and in the oven. Melt some sugar in it (just enough to cover the bottom) and coat the pan with the caramel. Yes, you do this on the stove. Set aside.
 - In a mixing bowl, mix the eggs and the sugar by hand. Add the vanilla extract and combine well. Gradually add the milk and mix until you have an homogeneous mixture. Pour in the metal pan coated in caramel. 
 - Send to a 350F oven for 1-1.25 hour. Let cool completely and refrigerate for at least 4 hours before serving. If you can leave overnight, even better!
+- For serving, flip the pan on a not-too-shallow dish. The caramel will allow for an easy flip. If you are making a vanilla flan, you can always include a tablespoon of dulce de leche in each serving. 
+- Choose a metal pan you can use on the stove and in the oven. Melt some sugar in it (just enough to cover the bottom) and coat the pan with the caramel. Yes, you do this on the stove. Set aside.
+- Mix the eggs and sugar by hand in a mixing bowl. Add the vanilla extract and combine well. Gradually add the milk and mix until you have a homogeneous mixture. Pour into the metal pan. 
+- Send to a 350F oven for 1 hour. Let cool completely and refrigerate for at least X hours before serving. 
 - For serving, flip the pan on a not-too-shallow dish. The caramel will allow for an easy flip. If you are making a vanilla flan, you can always include a tablespoon of dulce de leche in each serving. 
