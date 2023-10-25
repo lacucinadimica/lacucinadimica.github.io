@@ -25,6 +25,7 @@ This is a work in progress!
 - [Marquise de Chocolate](MarquiseDeChocolate)
 - [Flan de Mamá](FlanDeMama)
 - [Cheesecake de Vane](CheesecakeDeVane)
+- [Lemon Pie de Mamá](LemonPie)
 
 **Extras**
 - [Italian Meringue](MerengueItaliano)
@@ -45,7 +46,7 @@ This is a work in progress!
   <img src="CCCookieDough.jpg" alt="Food Image 9" class="food-image">
   <img src="CuttingTurkey.jpeg" alt="Food Image 11" class="food-image">
   <img src="Estofado.jpeg" alt="Food Image 13" class="food-image">
-  <img src="LemonPie.jpeg" alt="Food Image 17" class="food-image">
+  <img src="LemonPieViejo.jpeg" alt="Food Image 17" class="food-image">
   <img src="Malfatti.jpeg" alt="Food Image 20" class="food-image">
   <img src="FriedShrimpSalad.jpg" alt="Food Image 14" class="food-image">
   <img src="HornoDeBarro.jpg" alt="Food Image 16" class="food-image">

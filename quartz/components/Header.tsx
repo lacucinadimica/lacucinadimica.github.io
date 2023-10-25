@@ -33,7 +33,7 @@ function Header({ children }: QuartzComponentProps) {
         <div className="menu">
           {/* Add your menu buttons here */}
           <a href="/engineering">Projects</a>
-          <a href="/lacucina">Food</a>
+          <a href="/lacucina">Kitchen</a>
         </div>
       </div>
     </header>

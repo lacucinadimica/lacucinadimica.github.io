@@ -11,8 +11,11 @@ Italian meringue is an easy topping for any dessert. There are a lot of tips and
 - Add an acid to stabilize your meringue. That's either a 1/4 teaspoon of cream tartar or a few drops of lemon juice. I interchange them, but the drops of lemon also make it for a more shiny meringue.
 - It doesn't last more than two days in the fridge. 
 
-<img src="LemonPie.jpg" alt="Merengue" class="food-image"
-align ="right">
+<div id="food-gallery">
+ <img src="LemonPie.jpg" alt="Merengue" class="food-image">
+ <img src="LemonPieViejo.jpeg" alt="Lemon Pie" class="food-image">
+ <img src="Marquise.jpg" alt="Marquise" class="food-image">
+</div>
 
 ## Ingredients
 - Egg whites. There are around 35 grams of egg whites in a large egg. Most cakes won't require more than 3 egg whites.
