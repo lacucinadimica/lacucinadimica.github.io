@@ -1,9 +1,11 @@
 # Lemon Pie de Mamá
-<img src="LemonPie.jpg" alt="Merengue" class="food-image"
-align ="right" width = "400" height = "auto" style="margin:10px">
+
 Because this is my mom's lemon pie recipe, there are only a couple of rules to be followed here. The lack of rules can make this more complicated than it has to, but don't let that happen. If you are looking for a recipe that doesn't require much precision, one to have fun tweaking and improving, this is it. 
 
 Just try to enjoy the freedom of the recipe. Use your judgment on quantities (the dough may require extra flour).
+
+<img src="LemonPie.jpg" alt="Merengue" class="food-image"
+align ="right" width = "400" height = "auto" style="margin:10px">
 
 ## Ingredients
 **Crust**

@@ -9,6 +9,44 @@ That said, I have been keeping a recipe file organizer since I was 13. Because a
 ### Recipe Index
 
 This is a work in progress!
+<!--
+<div class="recipe-index">
+    <div class="column">
+    <h2>Bigger Dishes</h2>       
+      <ul>
+        <li><a class="recipe-link" href="Ham&CheeseQuiche.md">Ham & Cheese Quiche</a></li>
+        <li><a class="recipe-link" href="Malfatti.md">Malfatti de la Abuela</a></li>
+        <li><a class="recipe-link" href="Puchero.md">Puchero de Mamá</a></li>
+      </ul>
+    </div>
+    <div class="column">
+      <h2>Tea Time</h2>
+       <ul>
+          <li><a class="recipe-link" href="AlfajoresDelPolo.md">Alfajores del Polo</a></li>
+          <li><a class="recipe-link" href="AlfajoresDeMaicena.md">Alfajores de Maicena</a></li>
+       </ul>
+    </div>
+    <div class="column">
+       <h2>Dessert</h2>
+        <ul>
+          <li><a class="recipe-link" href="MarquiseDeChocolate.md">Marquise de Chocolate</a></li>
+          <li><a class="recipe-link" href="FlanDeMama.md">Flan de Mamá</a></li>
+          <li><a class="recipe-link" href="CheesecakeDeVane.md">Cheesecake de Vane</a></li>
+          <li><a class="recipe-link" href="LemonPie.md">Lemon Pie de Mamá</a></li> 
+        </ul>
+     </div>
+</div>
+
+<div class="column">
+       <h2>Dessert</h2>
+        <ul>
+          <li><a class="recipe-link" href="MarquiseDeChocolate.md">Marquise de Chocolate</a></li>
+          <li><a class="recipe-link" href="FlanDeMama.md">Flan de Mamá</a></li>
+          <li><a class="recipe-link" href="CheesecakeDeVane.md">Cheesecake de Vane</a></li>
+          <li><a class="recipe-link" href="LemonPie.md">Lemon Pie de Mamá</a></li> 
+        </ul>
+</div>
+-->
 
 **Bigger Dishes**
 

@@ -62,25 +62,3 @@
 .food-image-container:hover {
   transform: scale(1.05);
 }
-
-/* RECIPE PAGES */
-.recipe-container {
-  display: flex;
-  gap: 20 px;
-  align-items: flex-start;
-}
-.recipe-text {
-  flex: 2;
-  flex-wrap: wrap;
-}
-.recipe-image{
-  flex: 1;
-  max-width: 40%;
-}
-.recipe-caption {
-  width: 100%; /* Make the caption span the full width of the image */
-  padding: 8px; /* Add some padding for readability */
-  font-style: italic;
-  font-size: 14px;
-  color: #666;
-}
