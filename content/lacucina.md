@@ -5,68 +5,68 @@ title: La Cucina
 The kitchen is where I exercise freedom the most, i.e., I don't like following recipes. I prefer to experiment, to modify rules based on experience, to have fun.
 
 That said, I have been keeping a recipe file organizer since I was 13. Because as much as I like to "be free" in the kitchen, there is a minimum set of rules that must be followed. I share (most) my recipes here, selfishly organized in a pattern that helps me answer a daily question: "What do I want to cook?". 
-
-### Recipe Index
-
-This is a work in progress!
-<!--
+## Recipe Index
 <div class="recipe-index">
-    <div class="column">
-    <h2>Bigger Dishes</h2>       
-      <ul>
-        <li><a class="recipe-link" href="Ham&CheeseQuiche.md">Ham & Cheese Quiche</a></li>
-        <li><a class="recipe-link" href="Malfatti.md">Malfatti de la Abuela</a></li>
-        <li><a class="recipe-link" href="Puchero.md">Puchero de Mamá</a></li>
-      </ul>
-    </div>
-    <div class="column">
-      <h2>Tea Time</h2>
-       <ul>
-          <li><a class="recipe-link" href="AlfajoresDelPolo.md">Alfajores del Polo</a></li>
-          <li><a class="recipe-link" href="AlfajoresDeMaicena.md">Alfajores de Maicena</a></li>
-       </ul>
-    </div>
-    <div class="column">
-       <h2>Dessert</h2>
-        <ul>
-          <li><a class="recipe-link" href="MarquiseDeChocolate.md">Marquise de Chocolate</a></li>
-          <li><a class="recipe-link" href="FlanDeMama.md">Flan de Mamá</a></li>
-          <li><a class="recipe-link" href="CheesecakeDeVane.md">Cheesecake de Vane</a></li>
-          <li><a class="recipe-link" href="LemonPie.md">Lemon Pie de Mamá</a></li> 
-        </ul>
-     </div>
+  <div class="column">
+    <h2>Bigger Dishes</h2>
+    <ul>
+      <li><a class="recipe-link" href="Ham&CheeseQuiche.md">Ham & Cheese Quiche</a></li>
+      <li><a class="recipe-link" href="Malfatti.md">Malfatti de la Abuela</a></li>
+      <li><a class="recipe-link" href="Puchero.md">Puchero de Mamá</a></li>
+    </ul>
+  </div>
+  <div class="column">
+    <h2>Tea Time</h2>
+    <ul>
+      <li><a class="recipe-link" href="AlfajoresDeMaicena.md">Alfajores de Maicena</a></li>
+      <li><a class="recipe-link" href="AlfajoresDelPolo.md">Alfajores del Polo</a></li>
+    </ul>
+  </div>
+  <div class="column">
+    <h2>Dessert</h2>
+    <ul>
+      <li><a class="recipe-link" href="CheesecakeDeVane.md">Cheesecake de Vane</a></li>
+      <li><a class="recipe-link" href="FlanDeMama.md">Flan de Mamá</a></li>
+      <li><a class="recipe-link" href="LemonPie.md">Lemon Pie de Mamá</a></li>
+      <li><a class="recipe-link" href="MarquiseDeChocolate.md">Marquise de Chocolate</a></li>
+    </ul>
+  </div>
+  <div class="column">
+    <h2>Breads</h2>
+    <ul>
+      <li><a class="recipe-link" href="MerengueItaliano.md">Coming soon!</a></li> 
+    </ul>
+  </div>
+  <div class="column">
+    <h2>Pastas</h2>
+    <ul>
+      <li><a class="recipe-link" href="MerengueItaliano.md">Coming soon!</a></li> 
+    </ul>
+  </div>
+  <div class="column">
+    <h2>Extras</h2>
+    <ul>
+      <li><a class="recipe-link" href="MerengueItaliano.md">Italian Meringue</a></li> 
+    </ul>
+  </div>
 </div>
 
-<div class="column">
-       <h2>Dessert</h2>
-        <ul>
-          <li><a class="recipe-link" href="MarquiseDeChocolate.md">Marquise de Chocolate</a></li>
-          <li><a class="recipe-link" href="FlanDeMama.md">Flan de Mamá</a></li>
-          <li><a class="recipe-link" href="CheesecakeDeVane.md">Cheesecake de Vane</a></li>
-          <li><a class="recipe-link" href="LemonPie.md">Lemon Pie de Mamá</a></li> 
-        </ul>
-</div>
--->
-
+<!--
 **Bigger Dishes**
-
 - [Ham & Cheese Quiche](Ham&CheeseQuiche)
 - [Malfatti de la Abuela](Malfatti)
 - [Puchero de Mamá](Puchero)
-
 **Tea Time**
-
 - [Alfajores del Polo](AlfajoresDelPolo)
 - [Alfajores de Maicena](AlfajoresDeMaicena)
-
 **Dessert**
 - [Marquise de Chocolate](MarquiseDeChocolate)
 - [Flan de Mamá](FlanDeMama)
 - [Cheesecake de Vane](CheesecakeDeVane)
 - [Lemon Pie de Mamá](LemonPie)
-
 **Extras**
 - [Italian Meringue](MerengueItaliano)
+-->
 
 ## Food Gallery
 

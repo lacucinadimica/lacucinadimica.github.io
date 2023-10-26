@@ -62,3 +62,43 @@
 .food-image-container:hover {
   transform: scale(1.05);
 }
+
+/* Style for the recipe index columns */
+.recipe-index {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 20px 0; /* Add some margin for spacing */
+  /*background-color: #d9e1e3; /* Light gray background */
+  border: 1px solid #333; /* Subtle border */
+  padding: 10px;
+  border-radius: 5px; /* Rounded corners */
+}
+
+.recipe-index .column {
+  flex: 0 0 calc(33.33% - 20px); /* Create three equal-width columns with some spacing */
+  padding: 0 10px; /* Add padding to separate columns */
+  box-sizing: border-box; /* Include padding in column width */
+}
+
+.recipe-index h2 {
+  font-size: 18px; /* Adjust the heading size as needed */
+}
+
+.recipe-index ul {
+  list-style: none; /* Remove the default list bullets */
+  padding: 0;
+}
+
+.recipe-index li {
+  margin: 5px 0; /* Add margin between list items */
+}
+
+.recipe-index a.recipe-link {
+  text-decoration: none;
+  /*color: #333; /* Set link color */
+}
+
+.recipe-index a.recipe-link:hover {
+  text-decoration: underline; /* Add underline on hover */
+}
