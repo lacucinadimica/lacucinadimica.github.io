@@ -20,6 +20,6 @@ This is my mom's recipe, so there aren't exact quantities, please use your best 
 ## Procedure
 - Pluk and clean the birds well.
 - Put the birds in a big pot, along with the oil, vinegar, bay leaf, whole black pepper, and salt. Cook on medium heat for 1 hour-45min to 2 hours.
-- Add the peeled and sliced carrots, onions, bell pepper, garlic, and small bunch of herbs. Cook until everything is cooked through (around 30 min).
+- Add the peeled and sliced carrots, onions, bell pepper, garlic, and small bunch of herbs. Cook until the vegetables are tender (around 30 min).
 - Let it cool completely and store in air tight jar or tupper in the fridge.
 - Serve cold, along with fresh bread or toasts. Bones are removed individually before consumption.  
