@@ -12,6 +12,7 @@ That said, I have been keeping a recipe file organizer since I was 13. Because a
     <ul>
       <li><a class="recipe-link" href="Ham&CheeseQuiche.md">Ham & Cheese Quiche</a></li>
       <li><a class="recipe-link" href="Malfatti.md">Malfatti de la Abuela</a></li>
+      <li><a class="recipe-link" href="PartridgeEscabeche.md">Partridge Escabeche</a></li>
       <li><a class="recipe-link" href="Puchero.md">Puchero de Mamá</a></li>
     </ul>
   </div>
