@@ -1,5 +1,5 @@
 ---
-title: La Cucina
+title: The Kitchen
 ---
 
 The kitchen is where I exercise freedom the most, i.e., I don't like following recipes. I prefer to experiment, to modify rules based on experience, to have fun.
@@ -41,7 +41,7 @@ That said, I have been keeping a recipe file organizer since I was 13. Because a
   <div class="column">
     <h2>Pastas</h2>
     <ul>
-      <li><a class="recipe-link" href="MerengueItaliano.md">Coming soon!</a></li> 
+      <li><a class="recipe-link" href="Cappellettis.md">Cappelletti</a></li> 
     </ul>
   </div>
   <div class="column">

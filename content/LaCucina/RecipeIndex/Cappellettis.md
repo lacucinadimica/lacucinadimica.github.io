@@ -1,4 +1,5 @@
 # Cappelletti
+<img src="CappellettiEnSalsa.jpg" alt="Recipe Image" width = "300" height = "auto" style="margin:10px" align = "right">
 
 Big time family classic. This is the type of pasta we make for birthdays and other "important" ocassions. Cappelletti are proscioutto-filled heart-shaped pasta and they are amazing. Here is my grandma's recipe:
 
@@ -32,4 +33,9 @@ Big time family classic. This is the type of pasta we make for birthdays and oth
 - Season with salt, pepper, and nutmeg. Combine well.
 
 **Forming the Cappelletti**
-- 
+<img src="CappellettiMamaCortada.jpg" alt="Recipe Image" width = "300" height = "auto" style="margin:10px" align = "right">
+
+- Roll the dough until very thin and cut circles (approximately 5 cm diameter). Place just a little bit of the filling in the middle of the dough circle. Use your finger to cover the border of the circle with a drop of water, ensuring the cappelletti stay close. Fold the dough in a semicircle and bring the two ends together to form the cappelletti.
+
+
+- Cook them in a big pot of boiling water with plenty of salt. Serve them with a sauce that doesn't overwrite the amazing cappelletti flavor. Sometimes a bit of heavy cream and parmesan is enough. 
