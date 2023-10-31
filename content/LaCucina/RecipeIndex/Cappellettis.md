@@ -1,7 +1,7 @@
 # Cappelletti
 <img src="CappellettiEnSalsa.jpg" alt="Recipe Image" width = "300" height = "auto" style="margin:10px" align = "right">
 
-Big time family classic. This is the type of pasta we make for birthdays and other "important" ocassions. Cappelletti are proscioutto-filled heart-shaped pasta and they are amazing. Here is my grandma's recipe:
+Cappelletti are a big-time family classic. This is the type of pasta we make for birthdays and other "important" occasions. Cappelletti are prosciutto-filled heart-shaped pasta and they are amazing. Here is my grandma's recipe:
 
 ## Ingredients
 **Dough**
@@ -13,9 +13,9 @@ Big time family classic. This is the type of pasta we make for birthdays and oth
 **Filling**
 - 2 tablespoons of oil
 - 1/2 an onion
-- A small piece of bread soaked in milk and then squeezed.
+- A small piece of bread soaked in milk.
 - 2 tablespoons of grated parmesan
-- 50 grams of proscioutto, finely chopped 
+- 50 grams of prosciutto, finely chopped 
 - 1 can of deviled ham (you can find it at major grocery stores, but it's not at Whole Foods or Trader Joe's).
 - 1 tablespoon of parsley, finely chopped
 - 2 egg yolks
@@ -25,11 +25,11 @@ Big time family classic. This is the type of pasta we make for birthdays and oth
 
 ## Procedure
 **Dough**
-- Simply put the ingredients together and form a dough, not too sticky and not too hard, with the necessary amount of water. Cover and let it rest.
+- Simply put the ingredients together and form the dough, not too sticky or hard, with the necessary amount of water. Cover it and let it rest.
 
 **Filling**
 - Saute the finely chopped onion with the oil, for at least 10 minutes, and remove from the heat. Let cool.
-- Combine the onion with the piece of bread soaked in milk and then squeezed. Add the parmesan, proscioutto, deviled ham, parsley, and 2 egg yolks. 
+- Soak the small piece of bread in milk until softened, then squeeze out any excess liquid. Combine it with the onion. Add the parmesan, prosciutto, deviled ham, parsley, and 2 egg yolks. 
 - Season with salt, pepper, and nutmeg. Combine well.
 
 **Forming the Cappelletti**
