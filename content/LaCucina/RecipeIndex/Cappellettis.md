@@ -1,9 +1,9 @@
 # Cappelletti
-<img src="CappellettiEnSalsa.jpg" alt="Recipe Image" width = "300" height = "auto" style="margin:10px" align = "right">
-
 Big time family classic. This is the type of pasta we make for birthdays and other "important" ocassions. Cappelletti are proscioutto-filled heart-shaped pasta and they are amazing. Here is my grandma's recipe:
 
 ## Ingredients
+<img src="CappellettiEnSalsa.jpg" alt="Recipe Image" width = "300" height = "auto" style="margin:10px" align = "right">
+
 **Dough**
 - 400 grams of flour
 - 1 egg
