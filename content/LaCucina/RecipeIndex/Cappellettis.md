@@ -1,11 +1,6 @@
 # Cappelletti
-<<<<<<< HEAD
-Big time family classic. This is the type of pasta we make for birthdays and other "important" ocassions. Cappelletti are proscioutto-filled heart-shaped pasta and they are amazing. Here is my grandma's recipe:
-=======
-<img src="CappellettiEnSalsa.jpg" alt="Recipe Image" width = "300" height = "auto" style="margin:10px" align = "right">
 
 Cappelletti are a big-time family classic. This is the type of pasta we make for birthdays and other "important" occasions. Cappelletti are prosciutto-filled heart-shaped pasta and they are amazing. Here is my grandma's recipe:
->>>>>>> 71aa43dfc455997f04bcfb325f6d7381d6b29429
 
 ## Ingredients
 <img src="CappellettiEnSalsa.jpg" alt="Recipe Image" width = "300" height = "auto" style="margin:10px" align = "right">
