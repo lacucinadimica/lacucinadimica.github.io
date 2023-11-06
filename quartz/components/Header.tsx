@@ -10,7 +10,7 @@ function Header({ children }: QuartzComponentProps){
         </h1>
         <div className="menu">
           <a href="/engineering">Projects</a>
-          <a href="/lacucina">Kitchen</a>
+          <a href="/kitchen">Kitchen</a>
         </div>
       </div>
     </header>
