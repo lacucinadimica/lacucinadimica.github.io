@@ -1,6 +1,6 @@
 # Walnut Chocolate Chip Pumpkin Muffins
 
-I roasted my Halloween decorations (yes, pumpkins) and I couldn't figure out what to make until I found these [Simply Pumpkin Muffins](https://sallysbakingaddiction.com/pumpkin-muffins-recipe/) by Sally's Baking Recipes. I was surprised by how well they turned out, so I'll write down the recipe here (+ my tweaks). You'll get 14-16 regular-sized muffins.
+I roasted my Halloween decorations (yes, pumpkins) and I couldn't figure out what to make until I found these [Simply Pumpkin Muffins](https://sallysbakingaddiction.com/pumpkin-muffins-recipe/) by Sally's Baking Recipes. I was surprised by how well they turned out, so I'll write down the recipe here (plus my tweaks). You'll get 14-16 regular-sized muffins.
 
 ## Ingredients
 - 1/2 cup vegetable oil (I used Sunflower) or melted coconut oil
@@ -23,7 +23,7 @@ align ="right" width = "250" height = "auto">
 
 ## Procedure
 1. Preheat oven to 425F.
-2. Whisk the oil, sugars, pumpking puree, eggs, and milk. 
+2. Whisk the oil, sugars, pumpkin puree, eggs, and milk. 
 3. Add the dry ingredients: flour, baking soda, cinnamon, pumpkin pie spice, ginger, and salt. Combine well.
 4. Fold in the chopped walnuts and the dark chocolate chips.
 5. Spoon the batter to 90-95% cup. Sprinkle a little light or dark brown sugar on top, plus chocolate chips and walnuts so they look pretty. 
