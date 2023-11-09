@@ -7,6 +7,7 @@ I define sourdough as bread made without store-bought yeast (believe it or not I
 ## The Sourdough Starter
 
 Patience. If I had to describe the whole process in one word, that's what I would choose. You are making a living creature. A starter that's suitable for baking takes +7 days. You will need a bit of whole wheat flour and mainly bread flour.
+<img src="StarterJar.jpg" alt="Recipe Image" width = "300" height = "auto" style="margin:10px" align = "right">
 
 *General tips*
 - Keep your starter in a warm place (75-90F). Inside the oven with the light on is a good place for it.
@@ -23,6 +24,8 @@ Patience. If I had to describe the whole process in one word, that's what I woul
 
 **Procedure**
 1. Mix equal amounts of whole wheat flour and warm water in a jar (say, 70 grams of flour and 70 grams of water). You can just mix it with a fork, making sure that the flour is well incorported. Cover the jar, making sure it is not airtight. Let it rest in a warm place for 24 hrs.
+<img src="StarterPouring.jpg" alt="Recipe Image" width = "200" height = "auto" style="margin:10px" align = "right">
+
 2. Feed the starter with 70 grams of bread flour and 70 grams of warm water. Let it rest for 24 hrs.
 3. Discard (yes, just throw away) about half of the starter. Feed it with 70 grams of bread flour and 70 grams of warm water. Let it rest for 24 hrs. Repeat this process for another 4 days.
 4. It's been 7 days since step 1. If your starter is bubbly, scoop just a little (around 1 teaspoon) into a glas with room temperature water. If it floats, you can now bake with you starter. If your starter is not bubbly or doesn't pass the float test, keep feeding it for a few more days until it works. 
