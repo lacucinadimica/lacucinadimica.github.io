@@ -22,9 +22,9 @@ That said, I have been keeping a recipe file organizer since I was 13. Because a
       <li><a class="recipe-link" href="AlfajoresDeMaicena.md">Alfajores de Maicena</a></li>
       <li><a class="recipe-link" href="AlfajoresDelPolo.md">Alfajores del Polo</a></li>
       <li><a class="recipe-link" href="BananaBread.md">Banana Bread</a></li>
+      <li><a class="recipe-link" href="CoconutCake.md">Coconut Cake</a></li>  
       <li><a class="recipe-link" href="PoundCake.md">Pound Cake</a></li>
-      <li><a class="recipe-link" href="WalnutChocolateChipPumpkinMuffins.md">Pumpkin Muffins</a></li>
-      <li><a class="recipe-link" href="CoconutCake.md">Coconut Cake</a></li>      
+      <li><a class="recipe-link" href="WalnutChocolateChipPumpkinMuffins.md">Pumpkin Muffins</a></li> 
     </ul>
   </div>
   <div class="column">
@@ -53,9 +53,9 @@ That said, I have been keeping a recipe file organizer since I was 13. Because a
   <div class="column">
     <h2>Extras</h2>
     <ul>
+      <li><a class="recipe-link" href="MerengueItaliano.md">Italian Meringue</a></li>
       <li><a class="recipe-link" href="ButteryFlakyCrust.md">Buttery Flaky Crust</a></li>
-      <li><a class="recipe-link" href="MasaSablee.md">Masa Sablée</a></li>
-      <li><a class="recipe-link" href="MerengueItaliano.md">Italian Meringue</a></li> 
+      <li><a class="recipe-link" href="MasaSablee.md">Masa Sablée</a></li> 
       <li><a class="recipe-link" href="MirtasCrust.md">Mirta's Crust</a></li> 
     </ul>
   </div>
