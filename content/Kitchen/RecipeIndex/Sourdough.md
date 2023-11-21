@@ -54,8 +54,8 @@ The whole process takes a minimum of 24 hours, which means your bread will be re
 
 **Procedure**
 1. In the evening of day 1, there are two big steps:
- - Activate your sourdough starter: feed it flour and water on a 1:5:5 ratio. That means, that for 10 grams of starter, you should use 50 grams of (bread) flour and 50 grams of (warm) water. This ratio helps control the acidity. Leave it in a warm spot to resuscitate overnight.
- - Autolize the flour and water: mix both flours and water until it's well combined. Yeah, it's super sticky but don't worry. Cover and let it rest overnight.
+   - Activate your sourdough starter: feed it flour and water on a 1:5:5 ratio. That means, that for 10 grams of starter, you should use 50 grams of (bread) flour and 50 grams of (warm) water. This ratio helps control the acidity. Leave it in a warm spot to resuscitate overnight.
+   - Autolize the flour and water: mix both flours and water until it's well combined. Yeah, it's super sticky but don't worry. Cover and let it rest overnight.
 2. In the morning of day 2, test if your starter floats in water. If so, add the 100 grams of sourdough starter and salt to the flour and water that you autolized last night. Combine very well until the starter is part of the dough (it takes around 5 minutes).
  - If your starter doesn't pass the float test, feed it again and see if it doubles in size in a couple of hours. If it does, test and resume. Otherwise, it's not ready. Give it another day.
 3. Let the dough rest for 15 minutes.
