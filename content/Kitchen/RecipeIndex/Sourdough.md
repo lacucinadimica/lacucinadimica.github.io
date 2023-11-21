@@ -47,7 +47,7 @@ The whole process takes a minimum of 24 hours, which means your bread will be re
 **Ingredients**
 - 400 grams Bread Flour (+12% protein content)
 - 100 grams Whole Wheat Flour
-- 310-325 grams Water
+- 310-325 grams Warm Water (the higher the protein content in your flour, the more water you can use)
 - 100 grams Sourdough Start
 - 10-12 grams Salt
 - Rice or semolina flour for the banneton or bowl used in the proofing stage
