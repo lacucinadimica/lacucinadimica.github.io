@@ -7,7 +7,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: 'google', tagId: G-1GWJT61R8P },
+      provider: 'google', tagId: 'G-1GWJT61R8P'},
     baseUrl: "lacucinadimica.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
