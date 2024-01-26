@@ -21,6 +21,6 @@ Note: if you have [Bob's Red Mill's semolina flour](https://www.bobsredmill.com/
 6. Pinch the pasta to form the agnolotti. Hard to explain, easier to [show](https://youtube.com/shorts/1_teKfLk0Lw?si=7Btva9je001BYam3). With a pasta wheel, cut a straight line through the pasta, on the other side of the filling. Then, cut through each pinched area with the wheel, making each little agnolotti!
 7. Boil them in a large pot with lots of salt, for around 2 minutes. 
 8. Go simple on the sauce, here are some ideas:
-- Melted butter with sage and black pepper.
-- Fresh crushed tomatoes with just salt and pepper, basil always allowed.
-- Heavy cream.
+ - Melted butter with sage and black pepper.
+ - Fresh crushed tomatoes with just salt and pepper, basil always allowed.
+ - Heavy cream.
