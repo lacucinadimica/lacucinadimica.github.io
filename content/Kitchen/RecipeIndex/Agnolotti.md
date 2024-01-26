@@ -2,7 +2,7 @@
 
 I recently discovered these super cute-looking filled pasta, and I like them a lot. Agnolotti are easier to shape than cappelletti or tortellini but still feel like more than just ravioli. Of course, I don't really have a recipe for them, but below is an attempt at explaining what to do.
 
-The filling is up to you, as long as it's not too thick (it'll make forming the agnolotti more complicated than it has to be). Most fillings go like this: finely chop a shallot, saute it, add [insert main ingredient], parmesan, cream cheese, salt, pepper, and a pinch of nutmeg, and food-process everything. The main ingredients can be ham and cheese, prosciutto, blanched and squeezed spinach, or braised meat. 
+The filling is up to you, as long as it's not too thick (it'll make forming the agnolotti more complicated than it has to be). Most fillings go like this: finely chop a shallot, saute it, add the main ingredient you choose, parmesan, cream cheese, salt, pepper, and a pinch of nutmeg, and food-process everything. The main ingredients can be ham and cheese, prosciutto, blanched and squeezed spinach, or braised meat. 
 
 As per the dough, as a general rule, every time you make pasta dough, you should account for 1 egg per person, but for filled pasta, it's more like 0.75 eggs per person. This recipe should be enough for 4 people.
 
