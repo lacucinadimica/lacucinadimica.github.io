@@ -1,4 +1,5 @@
 # Medialunas Argentinas
+<img src="MedialunasTop.jpg" alt="Recipe Image" width = "200" height = "auto" style="margin:10px" align = "right">
 
 Medialunas are Argentinian croissants known for their fluffiness, butteriness, and sweetness. They are easier to make than French croissants, but they do require patience. Just keep in mind that at any point you can let the dough rest for longer than advised (like overnight) and continue the process later on.
 
@@ -13,7 +14,7 @@ I also made a short fun video that you can watch [here](https://www.instagram.co
 - When making this type of flaky pastries, we always roll in the direction of the layers/openings of the dough.
 - I also really like to cut them in half and make a ham and cheese sandwich with them.
 
-
+<img src="MedialunasSide.jpg" alt="Recipe Image" width = "200" height = "auto" style="margin:10px" align = "right">
 ## Ingredients
 ### Dough (Détrempe)
 - 500 grams all purpose flour 
