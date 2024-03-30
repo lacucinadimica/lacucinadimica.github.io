@@ -1,5 +1,5 @@
 # Medialunas Argentinas
-<img src="MedialunasTop.jpg" alt="Recipe Image" width = "200" height = "auto" style="margin:10px" align = "right">
+<img src="MedialunasTop.JPG" alt="Recipe Image" width = "230" height = "auto" style="margin:8px" align = "right">
 
 Medialunas are Argentinian croissants known for their fluffiness, butteriness, and sweetness. They are easier to make than French croissants, but they do require patience. Just keep in mind that at any point you can let the dough rest for longer than advised (like overnight) and continue the process later on.
 
@@ -14,7 +14,6 @@ I also made a short fun video that you can watch [here](https://www.instagram.co
 - When making this type of flaky pastries, we always roll in the direction of the layers/openings of the dough.
 - I also really like to cut them in half and make a ham and cheese sandwich with them.
 
-<img src="MedialunasSide.jpg" alt="Recipe Image" width = "200" height = "auto" style="margin:10px" align = "right">
 ## Ingredients
 ### Dough (Détrempe)
 - 500 grams all purpose flour 
@@ -47,6 +46,8 @@ I also made a short fun video that you can watch [here](https://www.instagram.co
 6. Make sure your butter is at room temperature and combine it with the flour. You can use the stand mixer with the paddle attachment here too.
 7. Place the butter block between two sheets of plastic wrap and roll out into a rectangle.
 9. Refrigerate for at least 30 minutes.
+<img src="MedialunasSide.JPG" alt="Recipe Image" width = "300" height = "auto" style="margin:10px" align = "right">
+
 10. Get the dough from the fridge. Keep rolling into a rectangle big enough that you can put the butter layer on it and fold the dough over to enclose it. Make sure the butter block is cold before folding it to help prevent the butter from melting and making the dough greasy.
 11. Gently roll out the dough again into a rectangle.
 12. Now the folding begins. Fold the dough into thirds like a letter (bringing one side to the center and then folding the other side over that, creating three layers). This is the first out of three folds (1/3). Cover in plastic wrap and refrigerate for at least one hour. 
