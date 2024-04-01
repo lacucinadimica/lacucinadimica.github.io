@@ -1,7 +1,7 @@
 # Medialunas Argentinas
 <img src="MedialunasTop.JPG" alt="Recipe Image" width = "230" height = "auto" style="margin:8px" align = "right">
 
-Medialunas are Argentinian croissants known for their buttery texture and fluffy layers. Unlike the meticulous process involved in French croissants, making medialunas is more forgiving, but does require patience. Plan for a total of 12 hours, including around 10 hours of resting time. However, you have the flexibility to extend the resting periods, even overnight, at any point in the recipe and continue the process later. For example, if you want medialunas in the afternoon, I'd recommend doing steps 1-9 in the evening of the previous day. 
+Medialunas are Argentinian croissants known for their buttery texture and fluffy layers. Unlike the meticulous process involved in French croissants, making medialunas is more forgiving, but does require patience. Plan for **a total of 12 hours**, including around 10 hours of resting time. However, you have the flexibility to extend the resting periods, even overnight, at any point in the recipe. For example, if you want medialunas in the afternoon, I'd recommend doing steps 1-9 in the evening of the previous day. 
 
 Note that all foldings in this recipe are "letter" or "simple" folds, which means folding the dough into thirds like a letter, bringing one long side to the center, and then folding the other side over that, creating three layers.
 
