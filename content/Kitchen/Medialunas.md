@@ -56,7 +56,7 @@ I also made a short fun video that you can watch [here](https://www.instagram.co
 15. Place the dough on a lightly floured surface and roll it into a rectangle. Cut the sides that are too uneven.
 16. Cut the dough in half the long way and then in triangles. Place the triangles in a pan, cover in plastic wrap, and refrigerate for **yet another hour**.
 17. Grab a non-stick or lightly greased baking sheet.
-18. Take the rectangles out of the fridge and let them rest for **5 minutes**.
+18. Take the triangles out of the fridge and let them rest for **5 minutes**.
 19. Gently and just barely roll a triangle. Roll the triangle in itself tightly, by pulling the tip with one hand and rolling the dough with the other. Shape it like a "medialuna", a "half-moon". Place each medialuna with the tip of the triangle at the bottom, so they don't open during baking. 
 20. Repeat step 19 with each triangle.
 21. Cover the baking sheet and let them rest until they double in size. A warm place could be inside the oven with the oven light on. It can take more than **2 hours**.
