@@ -41,27 +41,27 @@ I also made a short fun video that you can watch [here](https://www.instagram.co
 ## Instructions
 1. We start by making the Détrempe, either by hand or with a stand mixer fitted with the paddle attachment. Combine the flour, salt, and sugar in a large bowl.
 2. Make a well in the center of the flour mixture and add the milk, yeast, honey, and vanilla extract. The milk must be cold because we don't want to activate the yeast (yet). Stir until the ingredients are combined.
-4. Turn the dough onto a lightly floured surface and knead until smooth (5-7 minutes).
-5. Roll the dough with a rolling pin into a rectangular shape. Cover with plastic wrap, and refrigerate for at least **3 hours**.
-6. Make sure your butter is at room temperature and combine it with the flour. You can use the stand mixer with the paddle attachment here too.
-7. Place the butter block between two sheets of plastic wrap and roll it out into a rectangle.
-9. Refrigerate for at least **30 minutes**.
+3. Turn the dough onto a lightly floured surface and knead until smooth (5-7 minutes).
+4. Roll the dough with a rolling pin into a rectangular shape. Cover with plastic wrap, and refrigerate for at least **3 hours**.
+5. Make sure your butter is at room temperature and combine it with the flour. You can use the stand mixer with the paddle attachment here too.
+6. Place the butter block between two sheets of plastic wrap and roll it out into a rectangle.
+7. Refrigerate for at least **30 minutes**.
 <img src="MedialunasSide.JPG" alt="Recipe Image" width = "300" height = "auto" style="margin:10px" align = "right">
 
-10. Get the dough from the fridge. Keep rolling into a rectangle big enough to be able to put the butter layer on it and fold the dough over to enclose it. Make sure the butter block is cold before folding it to help prevent melting and making the dough greasy.
-11. Gently roll out the dough again into a rectangle.
-12. Now the folding begins. Fold the dough into thirds like a letter (bringing one side to the center and then folding the other side over that, creating three layers). This is the first out of three folds (1/3). Cover in plastic wrap and refrigerate for at least **1 hour**. 
-13. Place the dough on a lightly floured surface, roll it, and do another letter fold (2/3). Cover and refrigerate for at least **1 hour**.
-14. Roll the dough and do the last letter fold (3/3). Cover and refrigerate for at least **1 hour**.
-15. Place the dough on a lightly floured surface and roll it into a rectangle. Cut the sides that are too uneven.
-16. Cut the dough in half the long way and then in triangles. Place the triangles in a pan, cover in plastic wrap, and refrigerate for **yet another hour**.
-17. Grab a non-stick or lightly greased baking sheet.
-18. Take the triangles out of the fridge and let them rest for **5 minutes**.
-19. Gently and just barely roll a triangle. Roll the triangle in itself tightly, by pulling the tip with one hand and rolling the dough with the other. Shape it like a "medialuna", a "half-moon". Place each medialuna with the tip of the triangle at the bottom, so they don't open during baking. 
-20. Repeat step 19 with each triangle.
-21. Cover the baking sheet and let them rest until they double in size. A warm place could be inside the oven with the oven light on. It can take more than **2 hours**.
-22. Preheat the oven to 350°F (180°C).
-23. Beat an egg with a pinch of salt, and brush each medialuna with the egg wash.
-24. Bake them for **18-20 minutes** until they are golden brown.
-25. While they bake, put the sugar, honey, and water in a small pot and bring it to a boil to make syrup. Once it boils and the sugar is dissolved, remove it from the heat.
-26. Right when the medialunas are out of the oven, brush them with the syrup. Brush them twice, because why not?
+8. Get the dough from the fridge. Keep rolling into a rectangle big enough to be able to put the butter layer on it and fold the dough over to enclose it. Make sure the butter block is cold before folding it to help prevent melting and making the dough greasy.
+9. Gently roll out the dough again into a rectangle.
+10. Now the folding begins. Fold the dough into thirds like a letter (bringing one side to the center and then folding the other side over that, creating three layers). This is the first out of three folds (1/3). Cover in plastic wrap and refrigerate for at least **1 hour**. 
+11. Place the dough on a lightly floured surface, roll it, and do another letter fold (2/3). Cover and refrigerate for at least **1 hour**.
+12. Roll the dough and do the last letter fold (3/3). Cover and refrigerate for at least **1 hour**.
+13. Place the dough on a lightly floured surface and roll it into a rectangle. Cut the sides that are too uneven.
+14. Cut the dough in half the long way and then in triangles. Place the triangles in a pan, cover in plastic wrap, and refrigerate for **yet another hour**.
+15. Grab a non-stick or lightly greased baking sheet.
+16. Take the triangles out of the fridge and let them rest for **5 minutes**.
+17. Gently and just barely roll a triangle with your rolling pin. Then, fold the triangle in itself tightly, by pulling the tip with one hand and rolling the dough with the other. Shape it like a "medialuna", a "half-moon". Place each medialuna with the tip of the triangle at the bottom, so they don't open during baking. 
+18. Repeat step 17 with each triangle.
+19. Cover the baking sheet and let them rest until they double in size. A warm place could be inside the oven with the oven light on. It can take more than **2 hours**.
+20. Preheat the oven to 350°F (180°C).
+21. Beat an egg with a pinch of salt, and brush each medialuna with the egg wash.
+22. Bake them for **18-20 minutes** until they are golden brown.
+23. While they bake, put the sugar, honey, and water in a small pot and bring it to a boil to make syrup. Once it boils and the sugar is dissolved, remove it from the heat.
+24. Right when the medialunas are out of the oven, brush them with the syrup. Brush them twice, because why not?
