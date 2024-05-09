@@ -8,14 +8,13 @@ It's definitely the recipe I've made the most in my life. Pound cake is fun to m
 I can't help but think of my friend, Justi, every time I see this recipe. We once made 16 of these pound cakes for a charity event. And she was there with me when we wrote the recipe from Vane, an amazing baker who was patient enough to teach us. 
 
 ## Ingredients
-- 1/4 cup or 50 milliliters of oil or butter (I usually use sunflower oil, but olive oil works too, just expect its flavor to reflect on the pound cake)
+- 3 eggs 
 <img src="BudinMarmolado.JPG" alt="Recipe Image" width = "200" height = "auto" style="margin:10px" align = "right">
 
 - 200 grams of sugar
-- 3 eggs
-- 200 grams of flour
+- 250 grams of all-purpose flour
 - 1 teaspoon baking powder
-- 1 teaspoon baking soda
+- 1/4 cup or 50 milliliters of oil or butter (I usually use sunflower oil, but olive oil works too, just expect its flavor to reflect on the pound cake)
 - The flavor of your choice: vanilla extract, 2 lemons, 2 oranges, dulce de leche, etc.
 - For my favorite pound cake topping: you'll also need 1 cup of powdered sugar and the juice of half a lemon.
 
