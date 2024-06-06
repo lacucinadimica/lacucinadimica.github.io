@@ -23,9 +23,9 @@ Expect 1 hour of dough rising time, so they'll take 1.5 - 1.75 hours total to ma
 - Some type of coarse salt
 
 ## Procedure
-1. In a bowl, comibe the warm water, sugar, and active dry yeast. Let it sit for a few minutes until it foams.
+1. In a bowl, combine the warm water, sugar, and active dry yeast. Let it sit for a few minutes until it foams.
 2. Add the flour, salt, and melted butter. Form a dough and knead it until smooth (either by hand or with the dough hook).
-3. Let the dough rest, covered, until it doubles in size (approximatly 1 hour).
+3. Let the dough rest, covered, until it doubles in size (approximately 1 hour).
 4. Preheat the oven to 450°F (230°C). 
 <img src="PretzelKnot.jpg" alt="Recipe Image" width = "250" height = "auto" style="margin:10px" align = "right">
 
@@ -33,7 +33,7 @@ Expect 1 hour of dough rising time, so they'll take 1.5 - 1.75 hours total to ma
 6. Prepare the baking sheets with parchment paper or just oil them.
 7. Meanwhile, cut the risen dough into equal pieces. Roll them into small cylinders and form the pretzels (knot-shaped pretzels are awesome too). 
 8. Using a large spatula, place the pretzels into the boiling water for less than a minute.
-9. Once each pretzel has gone through the baking soda bath, place them in the baking sheets. Brush the tops with beaten yolk + water mixture and sprinkle with salt.
-10. Bake them for maximum 15 minutes.
+9. Once each pretzel has gone through the baking soda bath, place them on the baking sheets. Brush the tops with beaten yolk + water mixture and sprinkle with salt.
+10. Bake them for a maximum of 15 minutes.
 
 
