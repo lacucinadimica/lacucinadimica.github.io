@@ -45,6 +45,7 @@ That said, I have been keeping a recipe file organizer since I was 13. Because a
     <h2>Breads</h2>
     <ul>
       <li><a class="recipe-link" href="ArtisanStyleBread.md">Artisan Style</a></li> 
+      <li><a class="recipe-link" href="Pretzels.md">Pretzels</a></li>
       <li><a class="recipe-link" href="Sourdough.md">Sourdough</a></li> 
     </ul>
   </div>
