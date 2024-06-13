@@ -5,6 +5,117 @@ title: The Kitchen
 The kitchen is where I exercise freedom the most, i.e., I don't like following recipes. I prefer to experiment, to modify rules based on experience, to have fun.
 
 That said, I have been keeping a recipe file organizer since I was 13. Because as much as I like to "be free" in the kitchen, there is a minimum set of rules that must be followed. I share (most) my recipes here, selfishly organized in a pattern that helps me answer a daily question: "What do I want to cook?". 
+
+## Recipe Index
+
+<style>
+.recipe-index {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.column {
+  flex: 1;
+  min-width: 200px;
+}
+.column img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+.column h2 {
+  text-align: center;
+  background-color: #f8f8f8;
+  padding: 10px;
+  border-radius: 8px;
+}
+.recipe-link {
+  display: block;
+  padding: 10px;
+  background-color: #fff;
+  margin-bottom: 5px;
+  border-radius: 8px;
+  text-align: center;
+  text-decoration: none;
+  color: #333;
+  transition: background-color 0.3s, color 0.3s;
+}
+.recipe-link:hover {
+  background-color: #f0f0f0;
+  color: #000;
+}
+</style>
+
+<div class="recipe-index">
+  <div class="column">
+    <h2>Bigger Dishes</h2>
+    <img src="Malfatti.jpeg" alt="Bigger Dishes">
+    <ul>
+      <li><a class="recipe-link" href="Ham&CheeseQuiche.md">Ham & Cheese Quiche</a></li>
+      <li><a class="recipe-link" href="Malfatti.md">Malfatti de la Abuela</a></li>
+      <li><a class="recipe-link" href="PartridgeEscabeche.md">Partridge Escabeche</a></li>
+      <li><a class="recipe-link" href="Puchero.md">Puchero de Mamá</a></li>
+    </ul>
+  </div>
+  <div class="column">
+    <h2>Tea Time</h2>
+    <img src="AlfajoresDelPolo.jpg" alt="Tea Time">
+    <ul>
+      <li><a class="recipe-link" href="AlfajoresDeMaicena.md">Alfajores de Maicena</a></li>
+      <li><a class="recipe-link" href="AlfajoresDelPolo.md">Alfajores del Polo</a></li>
+      <li><a class="recipe-link" href="BananaBread.md">Banana Bread</a></li>
+      <li><a class="recipe-link" href="CoconutCake.md">Coconut Cake</a></li>
+      <li><a class="recipe-link" href="Medialunas.md">Medialunas</a></li>  
+      <li><a class="recipe-link" href="Panettone.md">Panettone</a></li>
+      <li><a class="recipe-link" href="Pepas.md">Pepas</a></li>
+      <li><a class="recipe-link" href="PoundCake.md">Pound Cake</a></li>
+      <li><a class="recipe-link" href="WalnutChocolateChipPumpkinMuffins.md">Pumpkin Muffins</a></li> 
+    </ul>
+  </div>
+  <div class="column">
+    <h2>Dessert</h2>
+    <img src="BirthdayCake.jpg" alt="Dessert">
+    <ul>
+      <li><a class="recipe-link" href="AngelFoodCake.md">Angel Food Cake</a></li>
+      <li><a class="recipe-link" href="CheesecakeDeVane.md">Cheesecake de Vane</a></li>
+      <li><a class="recipe-link" href="FlanDeMama.md">Flan de Mamá</a></li>
+      <li><a class="recipe-link" href="LemonPie.md">Lemon Pie de Mamá</a></li>
+      <li><a class="recipe-link" href="MarquiseDeChocolate.md">Marquise de Chocolate</a></li>
+      <li><a class="recipe-link" href="Tiramisu.md">Tiramisú</a></li>
+    </ul>
+  </div>
+  <div class="column">
+    <h2>Breads</h2>
+    <img src="SourdoughBread.jpg" alt="Breads">
+    <ul>
+      <li><a class="recipe-link" href="ArtisanStyleBread.md">Artisan Style</a></li> 
+      <li><a class="recipe-link" href="Pretzels.md">Pretzels</a></li>
+      <li><a class="recipe-link" href="Sourdough.md">Sourdough</a></li> 
+    </ul>
+  </div>
+  <div class="column">
+    <h2>Pastas</h2>
+    <img src="LobsterPasta.jpg" alt="Pastas">
+    <ul>
+      <li><a class="recipe-link" href="Agnolotti.md">Agnolotti</a></li>
+      <li><a class="recipe-link" href="Cappelletti.md">Cappelletti</a></li>
+    </ul>
+  </div>
+  <div class="column">
+    <h2>Extras</h2>
+    <img src="Peperoncino.jpeg" alt="Extras">
+    <ul>
+      <li><a class="recipe-link" href="ButteryFlakyCrust.md">Buttery Flaky Crust</a></li>
+      <li><a class="recipe-link" href="ItalianMeringue.md">Italian Meringue</a></li>
+      <li><a class="recipe-link" href="MasaSablee.md">Masa Sablée</a></li> 
+      <li><a class="recipe-link" href="MirtasCrust.md">Mirta's Crust</a></li> 
+    </ul>
+  </div>
+</div>
+
+
+<!--
 ## Recipe Index
 <div class="recipe-index">
   <div class="column">
@@ -66,6 +177,7 @@ That said, I have been keeping a recipe file organizer since I was 13. Because a
     </ul>
   </div>
 </div>
+-->
 
 <!--
 **Bigger Dishes**
