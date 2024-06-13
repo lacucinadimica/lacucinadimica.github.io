@@ -96,7 +96,7 @@ That said, I have been keeping a recipe file organizer since I was 13. Because a
   </div>
   <div class="column">
     <h2>Pastas</h2>
-    <img src="LobsterPasta.jpg" alt="Pastas">
+    <img src="LobsterPasta.jpeg" alt="Pastas">
     <ul>
       <li><a class="recipe-link" href="Agnolotti.md">Agnolotti</a></li>
       <li><a class="recipe-link" href="Cappelletti.md">Cappelletti</a></li>
