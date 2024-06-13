@@ -49,16 +49,6 @@ That said, I have been keeping a recipe file organizer since I was 13. Because a
 
 <div class="recipe-index">
   <div class="column">
-    <h2>Bigger Dishes</h2>
-    <img src="Malfatti.jpeg" alt="Bigger Dishes">
-    <ul>
-      <li><a class="recipe-link" href="Ham&CheeseQuiche.md">Ham & Cheese Quiche</a></li>
-      <li><a class="recipe-link" href="Malfatti.md">Malfatti de la Abuela</a></li>
-      <li><a class="recipe-link" href="PartridgeEscabeche.md">Partridge Escabeche</a></li>
-      <li><a class="recipe-link" href="Puchero.md">Puchero de Mamá</a></li>
-    </ul>
-  </div>
-  <div class="column">
     <h2>Tea Time</h2>
     <img src="AlfajorDelPolo.jpg" alt="Tea Time">
     <ul>
@@ -75,7 +65,7 @@ That said, I have been keeping a recipe file organizer since I was 13. Because a
   </div>
   <div class="column">
     <h2>Dessert</h2>
-    <img src="BirthdayCake.jpg" alt="Dessert">
+    <img src="Milhojas.jpg" alt="Dessert">
     <ul>
       <li><a class="recipe-link" href="AngelFoodCake.md">Angel Food Cake</a></li>
       <li><a class="recipe-link" href="CheesecakeDeVane.md">Cheesecake de Vane</a></li>
@@ -83,6 +73,16 @@ That said, I have been keeping a recipe file organizer since I was 13. Because a
       <li><a class="recipe-link" href="LemonPie.md">Lemon Pie de Mamá</a></li>
       <li><a class="recipe-link" href="MarquiseDeChocolate.md">Marquise de Chocolate</a></li>
       <li><a class="recipe-link" href="Tiramisu.md">Tiramisú</a></li>
+    </ul>
+  </div>
+  <div class="column">
+    <h2>Bigger Dishes</h2>
+    <img src="HornoDeBarro.jpg" alt="Bigger Dishes">
+    <ul>
+      <li><a class="recipe-link" href="Ham&CheeseQuiche.md">Ham & Cheese Quiche</a></li>
+      <li><a class="recipe-link" href="Malfatti.md">Malfatti de la Abuela</a></li>
+      <li><a class="recipe-link" href="PartridgeEscabeche.md">Partridge Escabeche</a></li>
+      <li><a class="recipe-link" href="Puchero.md">Puchero de Mamá</a></li>
     </ul>
   </div>
   <div class="column">
