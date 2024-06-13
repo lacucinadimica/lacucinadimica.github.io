@@ -1,6 +1,5 @@
 ---
 title: The Kitchen
-search: true
 ---
 
 The kitchen is where I exercise freedom the most, i.e., I don't like following recipes. I prefer to experiment, to modify rules based on experience, to have fun.
