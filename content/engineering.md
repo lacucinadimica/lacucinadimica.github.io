@@ -1,6 +1,72 @@
 # A collection of my projects.
 
-**Table of Contents**
+<table>
+  <thead>
+    <tr>
+      <th>Semester</th>
+      <th>Projects</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Spring 2022</td>
+      <td>
+        <ul>
+          <li><a href="#electromechanical-device-to-test-electrosurgical-generators">Electromechanical Device to Test Electrosurgical Generators</a></li>
+          <li><a href="#new-trition">New-Trition</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Spring 2021</td>
+      <td>
+        <ul>
+          <li><a href="#the-chinese-dragon">The Chinese Dragon</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Fall 2020</td>
+      <td>
+        <ul>
+          <li><a href="#electronic-generala">Electronic Generala</a></li>
+          <li><a href="#thermo-guard-cook-outside-the-kitchen">Thermo Guard: Cook Outside The Kitchen</a></li>
+          <li><a href="#how-pan-material-affects-brownies">How Pan Material Affects Brownies</a></li>
+          <li><a href="#the-acidity-indicator-a-ph-alerting-control-system">The Acidity Indicator, a pH Alerting Control System</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Fall 2019</td>
+      <td>
+        <ul>
+          <li><a href="#school-lockers-for-everyone">School Lockers for Everyone</a></li>
+          <li><a href="#truss-design">Truss Design</a></li>
+          <li><a href="#compressed-air-3d-printed-turbine">Compressed-Air 3D-Printed Turbine</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Spring 2019</td>
+      <td>
+        <ul>
+          <li><a href="#mate-upgrade">Mate: Upgrade</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Fall 2018</td>
+      <td>
+        <ul>
+          <li><a href="#buzz-beat-the-bee-counter">Buzz Beat: The Bee Counter</a></li>
+          <li><a href="#name-plate-for-engineering-projects-team">Name Plate for Engineering Projects Team</a></li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<!--**Table of Contents**
 <details>
   <summary>Spring 2022</summary>
   <ul>
@@ -44,6 +110,7 @@
     <li><a href="#name-plate-for-engineering-projects-team">Name Plate for Engineering Projects Team</a></li>
   </ul>
 </details>
+-->
 
 <!--
 

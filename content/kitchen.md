@@ -51,7 +51,7 @@ That said, I have been keeping a recipe file organizer since I was 13. Because a
 <div class="recipe-index">
   <div class="column">
     <h2>Tea Time</h2>
-    <img src="AlfajoresDelPolo.jpg" alt="Tea Time">
+    <img src="AlfajorDelPolo.jpg" alt="Tea Time">
     <ul>
       <li><a class="recipe-link" href="AlfajoresDeMaicena.md">Alfajores de Maicena</a></li>
       <li><a class="recipe-link" href="AlfajoresDelPolo.md">Alfajores del Polo</a></li>
