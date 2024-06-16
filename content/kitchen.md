@@ -201,15 +201,15 @@ That said, I have been keeping a recipe file organizer since I was 13. Because a
   <img src="TortaFrita.jpg" alt="Food Image 31" class="food-image">
   <img src="Estofado.jpeg" alt="Food Image 13" class="food-image">
   <img src="21stBirthdayCake.jpeg" alt="Food Image 1" class="food-image">
-  <img src="AppleMuffins.HEIC" alt="Food Image" class="food-image">
+  <img src="AppleMuffins.jpg" alt="Food Image" class="food-image">
   <img src="AppleCinnamon.jpeg" alt="Food Image 4" class="food-image">
   <img src="BalconBsAs.jpg" alt="Food Image 5" class="food-image">
   <img src="BirthdayCake.jpg" alt="Food Image 6" class="food-image">
   <img src="CCCookie.jpg" alt="Food Image 7" class="food-image">
   <img src="CCCookies.jpeg" alt="Food Image 8" class="food-image">
   <img src="Asado.HEIC" alt="Food Image" class="food-image">
-  <img src="Bicerin.HEIC" alt="Food Image" class="food-image">
-  <img src="Emapanadas2352.HEIC" alt="Food Image" class="food-image">
+  <img src="Bicerin.jpg" alt="Food Image" class="food-image">
+  <img src="Emapanadas2352.jpg" alt="Food Image" class="food-image">
   <img src="CCCookieDough.jpg" alt="Food Image 9" class="food-image">
   <img src="CuttingTurkey.jpeg" alt="Food Image 11" class="food-image">
   <img src="LemonPieViejo.jpeg" alt="Food Image 17" class="food-image">
