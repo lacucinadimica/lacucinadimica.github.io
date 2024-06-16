@@ -224,6 +224,7 @@ That said, I have been keeping a recipe file organizer since I was 13. Because a
   <img src="MarquiseYBudines.jpg" alt="Food Image 21" class="food-image">
   <img src="Spaghetti.jpeg" alt="Food Image 28" class="food-image">
   <img src="PoundCake.jpg" alt="Food Image 26" class="food-image">
+  <img src="TortaFrita.jpg" alt="Food Image 31" class="food-image">
   <img src="Empanadas.jpeg" alt="Food Image 10" class="food-image">
   <img src="PastaNormal.jpg" alt="Food Image 23" class="food-image">
   <img src="Friendsgiving.jpeg" alt="Food Image 15" class="food-image">
@@ -231,6 +232,5 @@ That said, I have been keeping a recipe file organizer since I was 13. Because a
   <img src="SlicingTurkey.jpeg" alt="Food Image 27" class="food-image">
   <img src="SushiSide.jpg" alt="Food Image 29" class="food-image">
   <img src="SweetPotatoGnochi.jpeg" alt="Food Image 30" class="food-image">
-  <img src="TortaFrita.jpg" alt="Food Image 31" class="food-image">
   <img src="WholeWheatPasta.jpeg" alt="Food Image 32" class="food-image">
 </div>
