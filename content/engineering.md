@@ -1,10 +1,11 @@
 # A collection of my projects.
 
+**Table of Contents**
 <table>
   <thead>
     <tr>
       <th>Semester</th>
-      <th>Projects</th>
+      <th>Project</th>
     </tr>
   </thead>
   <tbody>
