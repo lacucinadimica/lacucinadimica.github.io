@@ -46,15 +46,19 @@
 /* Style for individual food image containers */
 .food-image-container {
   max-width: 100%; /* Set a maximum width for each container */
+  height: 200px;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); /* Add a subtle shadow effect */
   transition: transform 0.2s; /* Add a hover effect for containers */
   text-align: center; /* Center the image horizontally */
+  overflow: hidden; /* Hide overflow to ensure images fit the container */
 }
 /* Style for individual food images */
 .food-image {
-  max-width: 100%; /* Set a maximum width for each image */
-  height: auto; /* Allow the image to scale proportionally */
-  display: inline-block; /* Prevent whitespace below images */
+  width: 100%; /* Set a maximum width for each image */
+  height: 100%; /* Allow the image to scale proportionally */
+  object-fit: cover; /* Maintain aspect ratio while covering the container */
+  display: block; /* Ensure images are treated as block elements */
+  /*display: inline-block; /* Prevent whitespace below images */
   /*border: 2px solid #ddd; /* Add a border around each image */
   /*border-radius: 4px; /* Add rounded corners to the image border */
 }
