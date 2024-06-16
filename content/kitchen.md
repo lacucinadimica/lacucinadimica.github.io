@@ -231,7 +231,7 @@ That said, I have been keeping a recipe file organizer since I was 13. Because a
   <img src="Malfatti.jpeg" alt="Food Image 20" class="food-image">
   <img src="Potato.jpg" alt="Food Image 20" class="food-image">
   <img src="Macaroons.jpg" alt="Food Image 19" class="food-image">
-  <img src="MilhojasLayersKitchen.jpg" alt="Food Image 19" class="food-image">
+  <img src="MilhojasLayersKitchen.JPG" alt="Food Image 19" class="food-image">
   <img src="MarquiseYBudines.jpg" alt="Food Image 21" class="food-image">
   <img src="SpaghettiTheProvince.jpeg" alt="Food Image 28" class="food-image">
   <img src="PoundCake.jpg" alt="Food Image 26" class="food-image">
