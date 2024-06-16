@@ -20,7 +20,7 @@ That said, I have been keeping a recipe file organizer since I was 13. Because a
 }
 .column img {
   width: 100%;
-  height: 200px;
+  height: 250px;
   object-fit: cover; /* Ensure the image covers the box while maintaining aspect ratio */
   border-radius: 8px;
   margin-bottom: 10px;
