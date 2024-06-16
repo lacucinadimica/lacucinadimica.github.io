@@ -194,11 +194,12 @@ That said, I have been keeping a recipe file organizer since I was 13. Because a
   <img src="PastaNormal215.jpg" alt="Food Image 23" class="food-image">
   <img src="Friendsgiving.jpeg" alt="Food Image 15" class="food-image">
   <img src="LemonPieViejo.jpeg" alt="Food Image 17" class="food-image">
+  <img src="MalibuFideosMasa.JPG" alt="Food Image 29" class="food-image">
   -->
   <img src="BerriesPie.jpg" alt="Food Image 3" class="food-image">
-  <img src="FideosConSalsa104.jpg" alt="Food Image" class="food-image">
   <img src="SalsaMalibu.JPG" alt="Food Image 3" class="food-image">
   <img src="21stBirthdayCake.jpeg" alt="Food Image 1" class="food-image">
+  <img src="FideosConSalsa104.jpg" alt="Food Image" class="food-image">
   <img src="Butchers.JPG" alt="Food Image" class="food-image">
   <img src="MedialunasSide.JPG" alt="Food Image" class="food-image">
   <img src="TortaFrita.jpg" alt="Food Image 31" class="food-image">
@@ -206,7 +207,6 @@ That said, I have been keeping a recipe file organizer since I was 13. Because a
   <img src="CinnamonRollsRaw.jpg" alt="Food Image" class="food-image">
   <img src="MalibuFideos.JPG" alt="Food Image 29" class="food-image">
   <img src="Estofado.jpeg" alt="Food Image 13" class="food-image">
-  <img src="MalibuFideosMasa.JPG" alt="Food Image 29" class="food-image">
   <img src="SushiSide.jpg" alt="Food Image 29" class="food-image">
   <img src="FideosVerdes.jpg" alt="Food Image" class="food-image">
   <img src="AppleCinnamon.jpeg" alt="Food Image 4" class="food-image">
@@ -215,8 +215,8 @@ That said, I have been keeping a recipe file organizer since I was 13. Because a
   <img src="Sourdough.jpg" alt="Food Image 5" class="food-image">
   <img src="BirthdayCake.jpg" alt="Food Image 6" class="food-image">
   <img src="MasMedialunasTop.jpg" alt="Food Image 5" class="food-image">
-  <img src="MesaNewYears.jpg" alt="Food Image 7" class="food-image">
-  <img src="PastaBandana.jpg" alt="Food Image 7" class="food-image">
+  <img src="MesaNewYears.JPG" alt="Food Image 7" class="food-image">
+  <img src="PastaBandana.JPG" alt="Food Image 7" class="food-image">
   <img src="CCCookie.jpg" alt="Food Image 7" class="food-image">
   <img src="CCCookies.jpeg" alt="Food Image 8" class="food-image">
   <img src="Sourdough.jpg" alt="Food Image" class="food-image">
@@ -226,7 +226,7 @@ That said, I have been keeping a recipe file organizer since I was 13. Because a
   <img src="Empanadas2352.jpg" alt="Food Image" class="food-image">
   <img src="CCCookieDough.jpg" alt="Food Image 9" class="food-image">
   <img src="Gelato.jpg" alt="Food Image 9" class="food-image">
-  <img src="PastaIntoPot.jpg" alt="Food Image 9" class="food-image">
+  <img src="PastaIntoPot.JPG" alt="Food Image 9" class="food-image">
   <img src="CuttingTurkey.jpeg" alt="Food Image 11" class="food-image">
   <img src="Malfatti.jpeg" alt="Food Image 20" class="food-image">
   <img src="Potato.jpg" alt="Food Image 20" class="food-image">
