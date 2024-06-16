@@ -197,20 +197,20 @@ That said, I have been keeping a recipe file organizer since I was 13. Because a
   -->
   <img src="BerriesPie.jpg" alt="Food Image 3" class="food-image">
   <img src="FideosConSalsa104.jpg" alt="Food Image" class="food-image">
-  <img src="SalsaMalibu.jpg" alt="Food Image 3" class="food-image">
+  <img src="SalsaMalibu.JPG" alt="Food Image 3" class="food-image">
+  <img src="21stBirthdayCake.jpeg" alt="Food Image 1" class="food-image">
   <img src="Butchers.JPG" alt="Food Image" class="food-image">
   <img src="MedialunasSide.JPG" alt="Food Image" class="food-image">
-  <img src="Agnollotti.jpg" alt="Food Image" class="food-image">
   <img src="TortaFrita.jpg" alt="Food Image 31" class="food-image">
+  <img src="Agnollotti.jpg" alt="Food Image" class="food-image">
   <img src="CinnamonRollsRaw.jpg" alt="Food Image" class="food-image">
-  <img src="SushiSide.jpg" alt="Food Image 29" class="food-image">
-  <img src="MalibuFideos.jpg" alt="Food Image 29" class="food-image">
+  <img src="MalibuFideos.JPG" alt="Food Image 29" class="food-image">
   <img src="Estofado.jpeg" alt="Food Image 13" class="food-image">
-  <img src="21stBirthdayCake.jpeg" alt="Food Image 1" class="food-image">
-  <img src="MalibuFideosMasa.jpg" alt="Food Image 29" class="food-image">
+  <img src="MalibuFideosMasa.JPG" alt="Food Image 29" class="food-image">
+  <img src="SushiSide.jpg" alt="Food Image 29" class="food-image">
   <img src="FideosVerdes.jpg" alt="Food Image" class="food-image">
   <img src="AppleCinnamon.jpeg" alt="Food Image 4" class="food-image">
-  <img src="NewYearsKitchen.jpg" alt="Food Image 13" class="food-image">
+  <img src="NewYearsKitchen.JPG" alt="Food Image 13" class="food-image">
   <img src="BalconBsAs.jpg" alt="Food Image 5" class="food-image">
   <img src="Sourdough.jpg" alt="Food Image 5" class="food-image">
   <img src="BirthdayCake.jpg" alt="Food Image 6" class="food-image">
@@ -242,5 +242,5 @@ That said, I have been keeping a recipe file organizer since I was 13. Because a
   <img src="PBBlueberryPie.jpeg" alt="Food Image 24" class="food-image">
   <img src="SlicingTurkey.jpeg" alt="Food Image 27" class="food-image">
   <img src="WholeWheatPasta.jpeg" alt="Food Image 32" class="food-image">
-  <img src="AppleMuffins.jpeg" alt="Food Image 32" class="food-image">
+  <img src="AppleMuffins.JPG" alt="Food Image 32" class="food-image">
 </div>
