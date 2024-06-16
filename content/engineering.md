@@ -1,6 +1,6 @@
 # A collection of my projects.
 
-**Table of Contents**
+<!--
 <table>
   <thead>
     <tr>
@@ -66,8 +66,8 @@
     </tr>
   </tbody>
 </table>
-
-<!--**Table of Contents**
+-->
+**Table of Contents**
 <details>
   <summary>Spring 2022</summary>
   <ul>
@@ -111,7 +111,7 @@
     <li><a href="#name-plate-for-engineering-projects-team">Name Plate for Engineering Projects Team</a></li>
   </ul>
 </details>
--->
+
 
 <!--
 
