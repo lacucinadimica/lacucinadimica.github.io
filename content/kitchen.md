@@ -1,10 +1,10 @@
 ---
 title: The Kitchen
 ---
-<div style="text-align: center;">
+<!--<div style="text-align: center;">
   <img src="PizzaMalibu.JPG" alt="The Kitchen" style="width: 50%; height: auto; border-radius: 8px;">
 </div>
-
+-->
 The kitchen is where I exercise freedom the most, i.e., I don't like following recipes. I prefer to experiment, to modify rules based on experience, to have fun.
 
 That said, I have been keeping a recipe file organizer since I was 13. Because as much as I like to "be free" in the kitchen, there is a minimum set of rules that must be followed. I share (most) my recipes here, selfishly organized in a pattern that helps me answer a daily question: "What do I want to cook?". 
