@@ -6,7 +6,7 @@ Vane's cheesecake is the only no-bake cheesecake I can recommend. I only had jus
 - 465 grams of cream cheese (CasanCrem if you are in Argentina)
 - 150 grams of heavy cream
 - 150 grams of sugar
-- 85 grans of unsalted butter
+- 85 grams of unsalted butter
 - 2 tablespoons of lemon zest
 - 2 teaspoons of vanilla extract
 - 1 envelope of unflavored gelatin (7.2 grams)
