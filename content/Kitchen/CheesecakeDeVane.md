@@ -27,7 +27,7 @@ Vane's cheesecake is the only no-bake cheesecake I recommend. It's easy and supe
 - Hydrate gelatine: Sprinkle it in a small bowl, add some boiling water, and stir until it is completely dissolved.
 - Add the dissolved gelatin to the mixture in the bigger bowl. Mix until it is homogeneous, making sure there are no lumps. 
 - Separately, mix the heavy cream just enough so it's a little more solid and fold it into the main mixture. 
-<img src="CheesecakeDeVaneClose.jpg" alt="Recipe Picture" width = "100" height = "auto" class="image">
+<img src="CheesecakeDeVaneClose.jpg" alt="Recipe Picture" width = "70" height = "auto" class="image">
 
 - Pour the mixture on the crust and refrigerate while you make the topping.
 - For the top layer, cook the berries over medium heat, along with some lemon or orange juice and sugar if you want extra sweetness, just enough to make a jam-like sauce. Separately, in a small bowl, repeat the process of hydrating unflavored gelatin, and then add it to the sauce. 
