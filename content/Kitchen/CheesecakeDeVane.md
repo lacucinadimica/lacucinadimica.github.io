@@ -18,9 +18,10 @@ Vane's cheesecake is the only no-bake cheesecake I recommend. It's easy and supe
 - Some lemon or orange juice
 - 1 envelope of unflavored gelatin (7.2 grams)
 - 2 tablespoons of sugar (optional)
-<img src="CheesecakeDeVaneTop.jpg" alt="Recipe Picture" width = "150" height = "auto" class="image">
 
 ## Procedure
+<img src="CheesecakeDeVaneTop.jpg" alt="Recipe Picture" width = "150" height = "auto" class="image">
+
 - Process the crackers and add the melted butter. Incorporate well and use the mixture to make a crust in a 9" springform pan. 
 - Bake in a 350°F oven for 10 minutes. Remove from the oven and let cool.
 - In a bowl, mix the room-temperature cream cheese, sugar, lemon zest, and vanilla extract. 
