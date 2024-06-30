@@ -1,5 +1,5 @@
 # Cheesecake de Vane
-<img src="CheesecakeDeVaneFront.jpg" alt="Recipe Picture" class="image">
+<img src="CheesecakeDeVaneFront.jpg" alt="Recipe Picture" width = "250" height = "auto" class="image">
 Vane's cheesecake is the only no-bake cheesecake I recommend. It's easy and super versatile: you can choose any flavor for the top layer! 
 
 ## Ingredients
@@ -17,17 +17,16 @@ Vane's cheesecake is the only no-bake cheesecake I recommend. It's easy and supe
 - Some lemon or orange juice
 - 1 envelope of unflavored gelatin (7.2 grams)
 - 2 tablespoons of sugar (optional)
+<img src="CheesecakeDeVaneTop.jpg" alt="Recipe Picture" width = "150" height = "auto" class="image">
 
 ## Procedure
 - Process the crackers and add the melted butter. Incorporate well and use the mixture to make a crust in a 9" springform pan. 
 - Bake in a 350°F oven for 10 minutes. Remove from the oven and let cool.
 - In a bowl, mix the room-temperature cream cheese, sugar, lemon zest, and vanilla extract. 
-<img src="CheesecakeDeVaneTop.jpg" alt="Recipe Picture" class="image">
-
 - Hydrate gelatine: Sprinkle it in a small bowl, add some boiling water, and stir until it is completely dissolved.
 - Add the dissolved gelatin to the mixture in the bigger bowl. Mix until it is homogeneous, making sure there are no lumps. 
 - Separately, mix the heavy cream just enough so it's a little more solid and fold it into the main mixture. 
-<img src="CheesecakeDeVaneClose.jpg" alt="Recipe Picture" class="image">
+<img src="CheesecakeDeVaneClose.jpg" alt="Recipe Picture" width = "150" height = "auto" class="image">
 
 - Pour the mixture on the crust and refrigerate while you make the topping.
 - For the top layer, cook the berries over medium heat, along with some lemon or orange juice and sugar if you want extra sweetness, just enough to make a jam-like sauce. Separately, in a small bowl, repeat the process of hydrating unflavored gelatin, and then add it to the sauce. 
