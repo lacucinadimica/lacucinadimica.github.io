@@ -1,26 +1,36 @@
 # Cheesecake de Vane
-
-Vane's cheesecake is the only no-bake cheesecake I can recommend. I only had just a few notes on this recipe, so I hope the explanation makes sense!  
+<img src="CheesecakeDeVaneFront.jpg" alt="Recipe Picture" class="image">
+Vane's cheesecake is the only no-bake cheesecake I recommend. It's easy and super versatile: you can choose any flavor for the top layer! 
 
 ## Ingredients
-- 465 grams of cream cheese (CasanCrem if you are in Argentina)
-- 150 grams of heavy cream
+- 160 grams of crackers
+- 85 grams of unsalted butter
+- 452 grams of cream cheese (2-8oz cream cheese blocks in the U.S. or CasanCrem in Argentina)
 - 150 grams of sugar
-- 85 grans of unsalted butter
 - 2 tablespoons of lemon zest
 - 2 teaspoons of vanilla extract
 - 1 envelope of unflavored gelatin (7.2 grams)
-- 160 grams of vanilla crackers (Lincoln if you are in Argentina)
-- Your choice of berries
+- 150 grams of heavy cream
+
+### Top Layer 
+- A handful of your choice of berries
+- Some lemon or orange juice
+- 1 envelope of unflavored gelatin (7.2 grams)
+- 2 tablespoons of sugar (optional)
 
 ## Procedure
 - Process the crackers and add the melted butter. Incorporate well and use the mixture to make a crust in a 9" springform pan. 
-- Bake in a 350F oven for 10 minutes. Remove from the oven and let cool.
+- Bake in a 350°F oven for 10 minutes. Remove from the oven and let cool.
 - In a bowl, mix the room-temperature cream cheese, sugar, lemon zest, and vanilla extract. 
-<img src="CheesecakeDeVane.jpeg" alt="Recipe Picture" class="image">
+<img src="CheesecakeDeVaneTop.jpg" alt="Recipe Picture" class="image">
 
-- Hydrate gelatine: Sprinkle it in a small bowl with approximately 3 tablespoons of water, add some boiling water, and stir until it is completely dissolved.
-- Add the dissolved gelatin to the mixture in the bigger bowl. Mix by hand making sure it stays homogeneous, making sure there are no lumps. 
+- Hydrate gelatine: Sprinkle it in a small bowl, add some boiling water, and stir until it is completely dissolved.
+- Add the dissolved gelatin to the mixture in the bigger bowl. Mix until it is homogeneous, making sure there are no lumps. 
 - Separately, mix the heavy cream just enough so it's a little more solid and fold it into the main mixture. 
-- Pour the mixture on the crust and refrigerate for at least 3 hours.
-- Serve along with berries. But Mica would also do something different: before refrigerating the cheesecake, I would top it off with a layer of berries. I'd prepare that berry layer by heating them up in a small pan just enough so that they are not whole (and adding a little lemon or orange zest). I'd add a tablespoon or two of any jam you have in the fridge and another hydrated unflavored gelatin. I'd pour it on top of the cheesecake and then send it to the fridge.
+<img src="CheesecakeDeVaneClose.jpg" alt="Recipe Picture" class="image">
+
+- Pour the mixture on the crust and refrigerate while you make the topping.
+- For the top layer, cook the berries over medium heat, along with some lemon or orange juice and sugar if you want extra sweetness, just enough to make a jam-like sauce. Separately, in a small bowl, repeat the process of hydrating unflavored gelatin, and then add it to the sauce. 
+- Pour the berry sauce on top of the cheesecake and refrigerate for at least 3 hours before eating.
+
+Note: my mom doesn't do the berry layer on the cheesecake. Instead, she makes the sauce without the gelatin, and pours it on every slice when serving.
