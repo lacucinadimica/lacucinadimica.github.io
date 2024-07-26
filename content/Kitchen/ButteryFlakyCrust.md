@@ -1,6 +1,6 @@
 # Buttery Flaky Crust
 
-I found this recipe in an old recipe book at home and then I realized how similar it is to [Sally's All Butter Pie Crust](https://sallysbakingaddiction.com/all-butter-pie-crust/#tasty-recipes-66643). If you enjoy the taste of butter in a crust, this one is perfect. If you follow the folds, it is flaky too. This dough works for both savory and sweet dishes, making it an even better recipe.
+I found this recipe in an old recipe book at home and then I realized how similar it is to <a href="https://sallysbakingaddiction.com/all-butter-pie-crust/#tasty-recipes-66643" target="_blank">Sally's All-Butter Pie Crust</a>. If you enjoy the taste of butter in a crust, this one is perfect. If you follow the folds, it is flaky too. This dough works for both savory and sweet dishes, making it an even better recipe.
 
 ## Ingredients
 - 300 grams of all-purpose flour
