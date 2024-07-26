@@ -76,6 +76,7 @@ That said, I have been keeping a recipe file organizer since I was 13. Because a
       <li><a class="recipe-link" href="FlanDeMama.md">Flan de Mamá</a></li>
       <li><a class="recipe-link" href="LemonPie.md">Lemon Pie de Mamá</a></li>
       <li><a class="recipe-link" href="MarquiseDeChocolate.md">Marquise de Chocolate</a></li>
+      <li><a class="recipe-link" href="PeachPie.md">Peach Pie</a></li>
       <li><a class="recipe-link" href="Tiramisu.md">Tiramisú</a></li>
     </ul>
   </div>
