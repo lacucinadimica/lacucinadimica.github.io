@@ -29,7 +29,7 @@ That said, I have been keeping a recipe file organizer since I was 13. Because a
   margin-bottom: 10px;
 }
 .column h2 {
-  text-align: right;
+  text-align: center;
   background-color: #f8f8f8;
   padding: 10px;
   border-radius: 8px;
