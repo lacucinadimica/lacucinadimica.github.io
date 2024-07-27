@@ -40,7 +40,7 @@ That said, I have been keeping a recipe file organizer since I was 13. Because a
   background-color: #fff;
   margin-bottom: 5px;
   border-radius: 8px;
-  text-align: center;
+  text-align: right;
   text-decoration: none;
   color: #333;
   transition: background-color 0.3s, color 0.3s;
@@ -88,6 +88,7 @@ That said, I have been keeping a recipe file organizer since I was 13. Because a
       <li><a class="recipe-link" href="Malfatti.md">Malfatti de la Abuela</a></li>
       <li><a class="recipe-link" href="PartridgeEscabeche.md">Partridge Escabeche</a></li>
       <li><a class="recipe-link" href="Puchero.md">Puchero de Mamá</a></li>
+      <li><a class="recipe-link" href="SalmoFillets.md">Salmon Fillets</a></li>
     </ul>
   </div>
   <div class="column">
