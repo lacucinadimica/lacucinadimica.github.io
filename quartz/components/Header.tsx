@@ -19,11 +19,11 @@ function Header({ children }: QuartzComponentProps){
 
 Header.css = `
 header {
-  background-color: transparent; /* #fdf1dd Example background color */
-  /*color: #000; /* Example text color
+  background-color: transparent;
+  color: #000;
   padding: 10px;
-  border-bottom: 1px solid #000; /* Thin black border at the bottom */
-/*}
+  border-bottom: 1px solid #000;
+}
 .header-content {
   display: flex;
   justify-content: space-between;
@@ -41,10 +41,9 @@ header h1 {
 
 .menu a {
   text-decoration: none;
-  color: #000; /* Menu button text color */
-/*}
+  color: #000;
+  }
 `
-
 export default (() => Header) satisfies QuartzComponentConstructor;
 */
 
