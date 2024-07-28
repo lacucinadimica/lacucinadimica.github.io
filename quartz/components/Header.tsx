@@ -44,6 +44,28 @@ header h1 {
   text-decoration: none;
   color: #000; /* Menu button text color */
 }
+
+/* Media query for smaller screens */
+@media (max-width: 600px) {
+  .header-content {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .menu {
+    flex-direction: column;
+    gap: 10px;
+    align-items: flex-start;
+  }
+
+  header h1 {
+    font-size: 1.5rem; /* Adjust the font size if needed */
+  }
+
+  .menu a {
+    font-size: 1rem; /* Adjust the font size if needed */
+  }
+}
 `
 
 export default (() => Header) satisfies QuartzComponentConstructor;
