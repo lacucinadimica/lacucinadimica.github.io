@@ -1,3 +1,4 @@
+import React, { useState } from "react";
 import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
 function Header({ children }: QuartzComponentProps){
