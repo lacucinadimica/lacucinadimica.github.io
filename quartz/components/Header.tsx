@@ -47,7 +47,7 @@ header h1 {
 export default (() => Header) satisfies QuartzComponentConstructor;
 */
 
-import { useState } from "react";
+import React, { useState } from "react";
 import { QuartzComponentConstructor, QuartzComponentProps } from "./types";
 
 function Header({ children }: QuartzComponentProps) {
