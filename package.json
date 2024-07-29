@@ -19,7 +19,7 @@
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1"
   },
   "engines": {
-    "node": ">=18.14" 
+    "node": ">=18.14"
   },
   "keywords": [
     "site generator",
@@ -61,6 +61,8 @@
     "preact-render-to-string": "^6.0.3",
     "pretty-bytes": "^6.1.0",
     "pretty-time": "^1.1.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
     "reading-time": "^1.5.0",
     "rehype-autolink-headings": "^6.1.1",
     "rehype-katex": "^6.0.3",
