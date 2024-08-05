@@ -2,8 +2,8 @@
 <!--<img src="AlfajorDelPolo.jpg" alt="Recipe Image" width = "200" height = "auto" style="margin:10px" align = "right">-->
 
 I use <a href="https://es-la.facebook.com/JimenaMonteverdePaginaoficial/photos/los-famosos-alfajores-del-polo-una-receta-que-siempre-sale-bien-muyyy-f%C3%A1cil-de-h/2534269519981422/" target="_blank"> Jimena Monteverde's recipe</a>. 
-This is one of my favorite types of alfajores (ever), and they are pretty easy to make. They are super rich but taste amazing and will win anyone over.
-My tweaks to the recipe: a reduction in the amount of butter and the amount of dulce de leche, adding a little bit of lemon zest to the dough, and I like making them much smaller than she recommends. So here is the recipe, translated and with my recommendations:
+This is one of my favorite types of alfajores (ever), and they are pretty easy to make. They are super rich but taste amazing.
+My tweaks to the recipe: a reduction in the amount of butter and the amount of dulce de leche, adding a little bit of lemon zest to the dough, and making them much smaller than she recommends. So here is the recipe, translated and with my recommendations:
 
 <img src="AlfajorDelPolo.jpg" alt="Recipe Image" width = "200" height = "auto" style="margin:10px" align = "right">
 
@@ -14,10 +14,10 @@ My tweaks to the recipe: a reduction in the amount of butter and the amount of d
 - 1 egg
 - Zest of half a lemon
 - Dulce de Leche (a lot, plan for a minimum of 350 gr)
-- Powdered Sugar for the topping (optional)
+- Powdered sugar for the topping (optional)
 
 ## Procedure
-- Make a dough with the flour, butter (at room temp), egg, sugar, and lemon zest. It's a hard dough, but try not to knead it or touch it too much, just what's necessary for it to form. Let it rest covered in the fridge for at least 20'. I usually use plastic wrap.
+- Make a dough with the flour, butter (at room temp), egg, sugar, and lemon zest. It's a hard dough, but try not to knead it or touch it too much, just what's necessary for it to form. Let it rest covered in the fridge for at least 20'.
 - Roll the dough very thinly on a counter with some flour. Cut the "cookie of the alfajor", place them on a baking sheet, and bake at 420°F for 8-10'
 - Fill them up with dulce de leche once they are completely cool. Be gentle because they crack easily. You'll get 34 alfajores if you roll the dough thin and cut the cookies small.</li> 
 
