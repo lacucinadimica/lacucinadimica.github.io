@@ -8,11 +8,11 @@ My tweaks to the recipe: a reduction in the amount of butter and the amount of d
 <img src="AlfajorDelPolo.jpg" alt="Recipe Image" width = "200" height = "auto" style="margin:10px" align = "right">
 
 ## Ingredients
-- 300 gr of all-purpose flour (+ some extra for rolling the dough)
 - 200 gr of softened butter
 - 100 gr of sugar
 - 1 egg
 - Zest of half a lemon
+- 300 gr of all-purpose flour (+ some extra for rolling the dough)
 - Dulce de Leche (a lot, plan for a minimum of 350 gr)
 - Powdered sugar for the topping (optional)
 
