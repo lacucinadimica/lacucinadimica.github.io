@@ -25,7 +25,7 @@ Expect 1 hour of dough rising time, so they'll take 1.5 - 1.75 hours total to ma
 ## Procedure
 1. In a bowl, combine the warm water, sugar, and active dry yeast. Let it sit for a few minutes until it foams.
 2. Add the flour, salt, and melted butter. Form a dough and knead it until smooth (either by hand or with the dough hook).
-3. Let the dough rest, covered, until it doubles in size (approximately 1 hour).
+3. Let the dough rest, covered, in a well-oiled bowl (you can use the same bowl from step 1!) until it doubles in size (approximately 1 hour).
 4. Preheat the oven to 450°F (230°C). 
 <img src="PretzelKnot.jpg" alt="Recipe Image" width = "250" height = "auto" style="margin:10px" align = "right">
 
