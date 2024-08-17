@@ -10,7 +10,7 @@ Expect 1 hour of dough rising time, so they'll take 1.5 - 1.75 hours total to ma
 **Dough**
 - 1.5 cups warm water
 - 1 tablespoon sugar
-- 1 package active dry yeast
+- 1 package active dry yeast (2 1/4 teaspoons)
 - 4.5 cups all-purpose flour
 - 2 teaspoons salt
 - 4 tablespoons butter, melted
