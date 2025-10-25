@@ -1,5 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import React, { useState, useEffect } from 'react'
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -15,31 +16,32 @@ export const defaultContentPageLayout: PageLayout = {
     //Component.ArticleTitle(),
     //Component.ContentMeta(),
     //Component.TagList(),
-    //Component.Search(),
     //Component.Darkmode(),
-    //Component.DesktopOnly(Component.Explorer()),
   ],
   left: [
     //Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    
   ],
   right: [
-  //  Component.Graph(),
-  //  Component.DesktopOnly(Component.TableOfContents()),
-  //  Component.Backlinks(),
+    //Component.MobileOnly(Component.Search()),
+    //Component.DesktopOnly(Component.Graph()),
+    //Component.DesktopOnly(Component.TableOfContents()),
+    //Component.DesktopOnly(Component.Backlinks()),
   ],
-
-};
+}
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [],//[Component.ArticleTitle()],
-  left: [],
-  //  Component.PageTitle(),
-  //  Component.MobileOnly(Component.Spacer()),
-  //  Component.Search(),
-  //  Component.Darkmode(),
-
-  right: [],
-};
+  beforeBody: [
+    //Component.ArticleTitle(),
+    //Component.MobileOnly(Component.Search()),
+    //Component.Darkmode(),
+  ],
+  left: [
+    //Component.PageTitle(),
+    //Component.MobileOnly(Component.Spacer()),
+  ],
+  right: [
+    //Component.MobileOnly(Component.Search()),
+  ],
+}
